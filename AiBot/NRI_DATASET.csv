@@ -1,0 +1,3144 @@
+﻿COUNTY,STATE,RISK_SCORE,EAL_SCORE
+Autauga,Alabama,49,51
+Baldwin,Alabama,98,98
+Barbour,Alabama,56,45
+Bibb,Alabama,32,30
+Blount,Alabama,65,64
+Bullock,Alabama,32,27
+Butler,Alabama,54,51
+Calhoun,Alabama,84,83
+Chambers,Alabama,42,35
+Cherokee,Alabama,42,42
+Chilton,Alabama,59,54
+Choctaw,Alabama,74,69
+Clarke,Alabama,72,65
+Clay,Alabama,22,19
+Cleburne,Alabama,23,21
+Coffee,Alabama,89,88
+Colbert,Alabama,72,71
+Conecuh,Alabama,48,42
+Coosa,Alabama,8,7
+Covington,Alabama,89,87
+Crenshaw,Alabama,46,43
+Cullman,Alabama,70,67
+Dale,Alabama,80,76
+Dallas,Alabama,58,52
+DeKalb,Alabama,69,65
+Elmore,Alabama,57,58
+Escambia,Alabama,91,90
+Etowah,Alabama,82,81
+Fayette,Alabama,29,25
+Franklin,Alabama,65,61
+Geneva,Alabama,66,62
+Greene,Alabama,18,12
+Hale,Alabama,33,24
+Henry,Alabama,50,50
+Houston,Alabama,91,90
+Jackson,Alabama,70,67
+Jefferson,Alabama,96,96
+Lamar,Alabama,30,27
+Lauderdale,Alabama,76,76
+Lawrence,Alabama,60,59
+Lee,Alabama,71,70
+Limestone,Alabama,74,74
+Lowndes,Alabama,27,18
+Macon,Alabama,21,18
+Madison,Alabama,91,92
+Marengo,Alabama,41,36
+Marion,Alabama,58,54
+Marshall,Alabama,85,82
+Mobile,Alabama,99,99
+Monroe,Alabama,59,54
+Montgomery,Alabama,86,85
+Morgan,Alabama,88,87
+Perry,Alabama,14,11
+Pickens,Alabama,45,34
+Pike,Alabama,63,60
+Randolph,Alabama,29,26
+Russell,Alabama,39,34
+St. Clair,Alabama,71,71
+Shelby,Alabama,87,89
+Sumter,Alabama,51,40
+Talladega,Alabama,72,67
+Tallapoosa,Alabama,50,44
+Tuscaloosa,Alabama,87,87
+Walker,Alabama,73,69
+Washington,Alabama,58,56
+Wilcox,Alabama,23,17
+Winston,Alabama,44,38
+Aleutians East,Alaska,4,3
+Aleutians West,Alaska,35,29
+Anchorage,Alaska,95,95
+Bethel,Alaska,17,11
+Bristol Bay,Alaska,0,0
+Chugach,Alaska,8,9
+Copper River,Alaska,2,2
+Denali,Alaska,12,13
+Dillingham,Alaska,2,1
+Fairbanks North Star,Alaska,82,82
+Haines,Alaska,4,3
+Hoonah-Angoon,Alaska,5,4
+Juneau,Alaska,20,21
+Kenai Peninsula,Alaska,91,89
+Ketchikan Gateway,Alaska,0,0
+Kodiak Island,Alaska,69,62
+Kusilvak,Alaska,3,1
+Lake and Peninsula,Alaska,2,1
+Matanuska-Susitna,Alaska,89,87
+Nome,Alaska,3,2
+North Slope,Alaska,9,6
+Northwest Arctic,Alaska,2,1
+Petersburg,Alaska,0,0
+Prince of Wales-Hyder,Alaska,0,0
+Sitka,Alaska,18,17
+Skagway,Alaska,1,1
+Southeast Fairbanks,Alaska,58,52
+Wrangell,Alaska,0,0
+Yakutat,Alaska,3,2
+Yukon-Koyukuk,Alaska,45,30
+Apache,Arizona,43,31
+Cochise,Arizona,86,83
+Coconino,Arizona,90,90
+Gila,Arizona,85,82
+Graham,Arizona,68,64
+Greenlee,Arizona,7,6
+La Paz,Arizona,69,58
+Maricopa,Arizona,97,98
+Mohave,Arizona,88,86
+Navajo,Arizona,81,77
+Pima,Arizona,95,95
+Pinal,Arizona,93,92
+Santa Cruz,Arizona,68,60
+Yavapai,Arizona,89,89
+Yuma,Arizona,92,88
+Arkansas,Arkansas,62,60
+Ashley,Arkansas,59,54
+Baxter,Arkansas,74,72
+Benton,Arkansas,88,88
+Boone,Arkansas,70,68
+Bradley,Arkansas,31,24
+Calhoun,Arkansas,11,10
+Carroll,Arkansas,68,65
+Chicot,Arkansas,60,51
+Clark,Arkansas,52,46
+Clay,Arkansas,64,62
+Cleburne,Arkansas,72,72
+Cleveland,Arkansas,11,12
+Columbia,Arkansas,48,42
+Conway,Arkansas,68,64
+Craighead,Arkansas,92,91
+Crawford,Arkansas,77,75
+Crittenden,Arkansas,81,77
+Cross,Arkansas,67,60
+Dallas,Arkansas,14,11
+Desha,Arkansas,45,36
+Drew,Arkansas,40,38
+Faulkner,Arkansas,89,89
+Franklin,Arkansas,50,46
+Fulton,Arkansas,46,38
+Garland,Arkansas,86,84
+Grant,Arkansas,29,32
+Greene,Arkansas,79,77
+Hempstead,Arkansas,58,52
+Hot Spring,Arkansas,62,61
+Howard,Arkansas,43,30
+Independence,Arkansas,78,75
+Izard,Arkansas,49,44
+Jackson,Arkansas,75,72
+Jefferson,Arkansas,84,82
+Johnson,Arkansas,69,62
+Lafayette,Arkansas,30,21
+Lawrence,Arkansas,69,66
+Lee,Arkansas,56,45
+Lincoln,Arkansas,47,41
+Little River,Arkansas,26,27
+Logan,Arkansas,52,49
+Lonoke,Arkansas,79,78
+Madison,Arkansas,62,60
+Marion,Arkansas,43,40
+Miller,Arkansas,74,71
+Mississippi,Arkansas,89,87
+Monroe,Arkansas,62,53
+Montgomery,Arkansas,20,17
+Nevada,Arkansas,17,14
+Newton,Arkansas,14,14
+Ouachita,Arkansas,54,47
+Perry,Arkansas,41,37
+Phillips,Arkansas,65,58
+Pike,Arkansas,32,25
+Poinsett,Arkansas,77,73
+Polk,Arkansas,48,42
+Pope,Arkansas,83,81
+Prairie,Arkansas,48,45
+Pulaski,Arkansas,95,95
+Randolph,Arkansas,68,63
+St. Francis,Arkansas,80,73
+Saline,Arkansas,76,78
+Scott,Arkansas,31,23
+Searcy,Arkansas,25,25
+Sebastian,Arkansas,84,81
+Sevier,Arkansas,35,25
+Sharp,Arkansas,66,62
+Stone,Arkansas,57,52
+Union,Arkansas,62,58
+Van Buren,Arkansas,60,53
+Washington,Arkansas,91,91
+White,Arkansas,88,86
+Woodruff,Arkansas,67,59
+Yell,Arkansas,64,58
+Alameda,California,100,100
+Alpine,California,24,20
+Amador,California,78,78
+Butte,California,97,97
+Calaveras,California,86,86
+Colusa,California,95,94
+Contra Costa,California,100,100
+Del Norte,California,84,80
+El Dorado,California,92,92
+Fresno,California,98,97
+Glenn,California,95,94
+Humboldt,California,97,96
+Imperial,California,98,97
+Inyo,California,76,72
+Kern,California,99,99
+Kings,California,91,88
+Lake,California,92,90
+Lassen,California,75,75
+Los Angeles,California,100,100
+Madera,California,95,93
+Marin,California,96,97
+Mariposa,California,80,76
+Mendocino,California,95,94
+Merced,California,95,94
+Modoc,California,81,77
+Mono,California,68,66
+Monterey,California,98,98
+Napa,California,98,98
+Nevada,California,84,86
+Orange,California,100,100
+Placer,California,89,91
+Plumas,California,79,78
+Riverside,California,100,100
+Sacramento,California,98,98
+San Benito,California,94,93
+San Bernardino,California,100,100
+San Diego,California,100,100
+San Francisco,California,99,99
+San Joaquin,California,98,98
+San Luis Obispo,California,93,94
+San Mateo,California,99,99
+Santa Barbara,California,99,99
+Santa Clara,California,100,100
+Santa Cruz,California,98,98
+Shasta,California,95,95
+Sierra,California,36,34
+Siskiyou,California,91,89
+Solano,California,98,98
+Sonoma,California,99,99
+Stanislaus,California,96,95
+Sutter,California,96,95
+Tehama,California,93,91
+Trinity,California,70,62
+Tulare,California,96,94
+Tuolumne,California,86,85
+Ventura,California,99,99
+Yolo,California,97,97
+Yuba,California,89,88
+Adams,Colorado,94,94
+Alamosa,Colorado,34,26
+Arapahoe,Colorado,95,96
+Archuleta,Colorado,15,15
+Baca,Colorado,6,5
+Bent,Colorado,9,6
+Boulder,Colorado,90,91
+Broomfield,Colorado,67,74
+Chaffee,Colorado,13,13
+Cheyenne,Colorado,5,6
+Clear Creek,Colorado,38,46
+Conejos,Colorado,6,4
+Costilla,Colorado,4,2
+Crowley,Colorado,5,4
+Custer,Colorado,7,11
+Delta,Colorado,17,16
+Denver,Colorado,94,94
+Dolores,Colorado,1,2
+Douglas,Colorado,82,88
+Eagle,Colorado,32,36
+Elbert,Colorado,23,37
+El Paso,Colorado,94,94
+Fremont,Colorado,43,43
+Garfield,Colorado,56,53
+Gilpin,Colorado,14,19
+Grand,Colorado,32,35
+Gunnison,Colorado,24,31
+Hinsdale,Colorado,3,4
+Huerfano,Colorado,18,19
+Jackson,Colorado,2,2
+Jefferson,Colorado,95,96
+Kiowa,Colorado,3,4
+Kit Carson,Colorado,50,41
+Lake,Colorado,4,4
+La Plata,Colorado,66,67
+Larimer,Colorado,94,94
+Las Animas,Colorado,22,19
+Lincoln,Colorado,11,11
+Logan,Colorado,66,61
+Mesa,Colorado,47,47
+Mineral,Colorado,2,2
+Moffat,Colorado,15,14
+Montezuma,Colorado,19,20
+Montrose,Colorado,26,26
+Morgan,Colorado,72,66
+Otero,Colorado,17,13
+Ouray,Colorado,5,7
+Park,Colorado,31,45
+Phillips,Colorado,28,27
+Pitkin,Colorado,46,49
+Prowers,Colorado,32,22
+Pueblo,Colorado,80,78
+Rio Blanco,Colorado,16,14
+Rio Grande,Colorado,25,18
+Routt,Colorado,8,12
+Saguache,Colorado,8,6
+San Juan,Colorado,8,9
+San Miguel,Colorado,25,36
+Sedgwick,Colorado,26,19
+Summit,Colorado,30,37
+Teller,Colorado,62,66
+Washington,Colorado,9,10
+Weld,Colorado,89,89
+Yuma,Colorado,63,56
+Fairfield,Connecticut,95,96
+Hartford,Connecticut,91,92
+Litchfield,Connecticut,83,85
+Middlesex,Connecticut,78,81
+New Haven,Connecticut,94,95
+New London,Connecticut,87,88
+Tolland,Connecticut,67,72
+Windham,Connecticut,70,69
+Kent,Delaware,85,83
+New Castle,Delaware,91,91
+Sussex,Delaware,93,93
+District of Columbia,District of Columbia,92,92
+Alachua,Florida,94,94
+Baker,Florida,47,45
+Bay,Florida,97,97
+Bradford,Florida,70,63
+Brevard,Florida,99,99
+Broward,Florida,100,100
+Calhoun,Florida,69,64
+Charlotte,Florida,97,96
+Citrus,Florida,96,96
+Clay,Florida,89,90
+Collier,Florida,99,99
+Columbia,Florida,85,80
+DeSoto,Florida,90,87
+Dixie,Florida,68,61
+Duval,Florida,98,98
+Escambia,Florida,98,98
+Flagler,Florida,88,88
+Franklin,Florida,71,65
+Gadsden,Florida,80,74
+Gilchrist,Florida,49,42
+Glades,Florida,75,66
+Gulf,Florida,76,75
+Hamilton,Florida,65,56
+Hardee,Florida,80,74
+Hendry,Florida,91,86
+Hernando,Florida,96,95
+Highlands,Florida,90,89
+Hillsborough,Florida,100,100
+Holmes,Florida,83,79
+Indian River,Florida,97,97
+Jackson,Florida,86,81
+Jefferson,Florida,50,49
+Lafayette,Florida,52,43
+Lake,Florida,95,95
+Lee,Florida,99,99
+Leon,Florida,95,95
+Levy,Florida,83,79
+Liberty,Florida,41,36
+Madison,Florida,70,62
+Manatee,Florida,98,98
+Marion,Florida,96,96
+Martin,Florida,97,97
+Miami-Dade,Florida,100,100
+Monroe,Florida,96,95
+Nassau,Florida,83,84
+Okaloosa,Florida,97,97
+Okeechobee,Florida,88,84
+Orange,Florida,99,99
+Osceola,Florida,95,94
+Palm Beach,Florida,100,100
+Pasco,Florida,99,99
+Pinellas,Florida,99,99
+Polk,Florida,98,98
+Putnam,Florida,90,87
+St. Johns,Florida,94,95
+St. Lucie,Florida,98,98
+Santa Rosa,Florida,96,96
+Sarasota,Florida,98,99
+Seminole,Florida,96,96
+Sumter,Florida,89,90
+Suwannee,Florida,82,78
+Taylor,Florida,74,70
+Union,Florida,43,38
+Volusia,Florida,98,97
+Wakulla,Florida,69,70
+Walton,Florida,95,95
+Washington,Florida,88,84
+Appling,Georgia,72,67
+Atkinson,Georgia,41,28
+Bacon,Georgia,49,38
+Baker,Georgia,11,9
+Baldwin,Georgia,42,37
+Banks,Georgia,20,18
+Barrow,Georgia,55,52
+Bartow,Georgia,74,72
+Ben Hill,Georgia,42,34
+Berrien,Georgia,54,49
+Bibb,Georgia,76,73
+Bleckley,Georgia,16,14
+Brantley,Georgia,57,55
+Brooks,Georgia,52,45
+Bryan,Georgia,88,88
+Bulloch,Georgia,89,88
+Burke,Georgia,58,55
+Butts,Georgia,17,14
+Calhoun,Georgia,26,17
+Camden,Georgia,85,85
+Candler,Georgia,40,26
+Carroll,Georgia,77,74
+Catoosa,Georgia,62,63
+Charlton,Georgia,57,45
+Chatham,Georgia,99,99
+Chattahoochee,Georgia,3,3
+Chattooga,Georgia,55,50
+Cherokee,Georgia,83,85
+Clarke,Georgia,68,65
+Clay,Georgia,14,8
+Clayton,Georgia,86,82
+Clinch,Georgia,36,24
+Cobb,Georgia,92,93
+Coffee,Georgia,77,72
+Colquitt,Georgia,82,76
+Columbia,Georgia,76,79
+Cook,Georgia,60,52
+Coweta,Georgia,68,68
+Crawford,Georgia,7,6
+Crisp,Georgia,61,51
+Dade,Georgia,34,30
+Dawson,Georgia,25,30
+Decatur,Georgia,81,75
+DeKalb,Georgia,90,89
+Dodge,Georgia,32,27
+Dooly,Georgia,37,26
+Dougherty,Georgia,80,75
+Douglas,Georgia,75,74
+Early,Georgia,59,53
+Echols,Georgia,4,4
+Effingham,Georgia,79,80
+Elbert,Georgia,28,19
+Emanuel,Georgia,59,48
+Evans,Georgia,64,53
+Fannin,Georgia,39,33
+Fayette,Georgia,69,72
+Floyd,Georgia,79,75
+Forsyth,Georgia,81,85
+Franklin,Georgia,29,25
+Fulton,Georgia,92,93
+Gilmer,Georgia,61,55
+Glascock,Georgia,3,2
+Glynn,Georgia,91,91
+Gordon,Georgia,66,61
+Grady,Georgia,77,71
+Greene,Georgia,22,24
+Gwinnett,Georgia,91,92
+Habersham,Georgia,36,34
+Hall,Georgia,81,79
+Hancock,Georgia,7,4
+Haralson,Georgia,24,24
+Harris,Georgia,17,20
+Hart,Georgia,30,28
+Heard,Georgia,13,10
+Henry,Georgia,76,78
+Houston,Georgia,71,71
+Irwin,Georgia,30,25
+Jackson,Georgia,58,58
+Jasper,Georgia,6,6
+Jeff Davis,Georgia,47,39
+Jefferson,Georgia,42,29
+Jenkins,Georgia,29,19
+Johnson,Georgia,14,10
+Jones,Georgia,13,15
+Lamar,Georgia,10,9
+Lanier,Georgia,15,13
+Laurens,Georgia,53,48
+Lee,Georgia,46,49
+Liberty,Georgia,94,93
+Lincoln,Georgia,10,7
+Long,Georgia,56,45
+Lowndes,Georgia,81,79
+Lumpkin,Georgia,33,35
+McDuffie,Georgia,34,29
+McIntosh,Georgia,79,79
+Macon,Georgia,28,15
+Madison,Georgia,36,31
+Marion,Georgia,4,3
+Meriwether,Georgia,18,14
+Miller,Georgia,46,37
+Mitchell,Georgia,73,64
+Monroe,Georgia,22,20
+Montgomery,Georgia,16,12
+Morgan,Georgia,22,26
+Murray,Georgia,60,56
+Muscogee,Georgia,69,65
+Newton,Georgia,63,60
+Oconee,Georgia,24,32
+Oglethorpe,Georgia,11,11
+Paulding,Georgia,71,74
+Peach,Georgia,33,25
+Pickens,Georgia,36,36
+Pierce,Georgia,70,67
+Pike,Georgia,6,8
+Polk,Georgia,57,50
+Pulaski,Georgia,12,10
+Putnam,Georgia,27,25
+Quitman,Georgia,11,7
+Rabun,Georgia,22,22
+Randolph,Georgia,28,16
+Richmond,Georgia,89,87
+Rockdale,Georgia,64,61
+Schley,Georgia,2,2
+Screven,Georgia,68,63
+Seminole,Georgia,63,54
+Spalding,Georgia,45,40
+Stephens,Georgia,29,28
+Stewart,Georgia,12,6
+Sumter,Georgia,59,51
+Talbot,Georgia,4,3
+Taliaferro,Georgia,1,1
+Tattnall,Georgia,83,78
+Taylor,Georgia,9,6
+Telfair,Georgia,36,27
+Terrell,Georgia,23,17
+Thomas,Georgia,85,81
+Tift,Georgia,74,70
+Toombs,Georgia,67,59
+Towns,Georgia,11,12
+Treutlen,Georgia,12,8
+Troup,Georgia,67,62
+Turner,Georgia,27,20
+Twiggs,Georgia,5,5
+Union,Georgia,28,27
+Upson,Georgia,19,17
+Walker,Georgia,74,71
+Walton,Georgia,58,57
+Ware,Georgia,72,67
+Warren,Georgia,7,5
+Washington,Georgia,28,19
+Wayne,Georgia,76,71
+Webster,Georgia,5,3
+Wheeler,Georgia,9,7
+White,Georgia,35,37
+Whitfield,Georgia,80,74
+Wilcox,Georgia,23,18
+Wilkes,Georgia,16,12
+Wilkinson,Georgia,6,4
+Worth,Georgia,55,49
+Hawaii,Hawaii,98,97
+Honolulu,Hawaii,94,94
+Kalawao,Hawaii,0,0
+Kauai,Hawaii,74,73
+Maui,Hawaii,88,87
+Ada,Idaho,88,91
+Adams,Idaho,51,53
+Bannock,Idaho,66,66
+Bear Lake,Idaho,7,8
+Benewah,Idaho,6,4
+Bingham,Idaho,51,48
+Blaine,Idaho,42,47
+Boise,Idaho,62,67
+Bonner,Idaho,28,32
+Bonneville,Idaho,71,71
+Boundary,Idaho,20,17
+Butte,Idaho,4,3
+Camas,Idaho,2,3
+Canyon,Idaho,65,64
+Caribou,Idaho,12,12
+Cassia,Idaho,49,49
+Clark,Idaho,5,4
+Clearwater,Idaho,26,22
+Custer,Idaho,16,13
+Elmore,Idaho,79,76
+Franklin,Idaho,10,11
+Fremont,Idaho,39,41
+Gem,Idaho,49,45
+Gooding,Idaho,44,41
+Idaho,Idaho,81,79
+Jefferson,Idaho,38,37
+Jerome,Idaho,22,18
+Kootenai,Idaho,61,63
+Latah,Idaho,17,21
+Lemhi,Idaho,32,28
+Lewis,Idaho,5,4
+Lincoln,Idaho,26,16
+Madison,Idaho,37,40
+Minidoka,Idaho,24,19
+Nez Perce,Idaho,17,15
+Oneida,Idaho,4,4
+Owyhee,Idaho,38,29
+Payette,Idaho,20,17
+Power,Idaho,26,18
+Shoshone,Idaho,9,6
+Teton,Idaho,28,38
+Twin Falls,Idaho,51,50
+Valley,Idaho,58,64
+Washington,Idaho,40,32
+Adams,Illinois,51,55
+Alexander,Illinois,56,51
+Bond,Illinois,44,45
+Boone,Illinois,55,56
+Brown,Illinois,6,7
+Bureau,Illinois,63,66
+Calhoun,Illinois,4,5
+Carroll,Illinois,44,49
+Cass,Illinois,30,30
+Champaign,Illinois,85,85
+Christian,Illinois,53,57
+Clark,Illinois,29,33
+Clay,Illinois,48,48
+Clinton,Illinois,66,67
+Coles,Illinois,69,67
+Cook,Illinois,100,100
+Crawford,Illinois,53,54
+Cumberland,Illinois,16,21
+DeKalb,Illinois,75,75
+De Witt,Illinois,24,33
+Douglas,Illinois,44,43
+DuPage,Illinois,95,96
+Edgar,Illinois,41,43
+Edwards,Illinois,15,16
+Effingham,Illinois,62,65
+Fayette,Illinois,43,43
+Ford,Illinois,20,23
+Franklin,Illinois,75,74
+Fulton,Illinois,61,65
+Gallatin,Illinois,29,26
+Greene,Illinois,12,16
+Grundy,Illinois,64,69
+Hamilton,Illinois,53,55
+Hancock,Illinois,21,24
+Hardin,Illinois,11,11
+Henderson,Illinois,10,13
+Henry,Illinois,67,71
+Iroquois,Illinois,44,44
+Jackson,Illinois,85,83
+Jasper,Illinois,33,35
+Jefferson,Illinois,82,81
+Jersey,Illinois,26,32
+Jo Daviess,Illinois,44,49
+Johnson,Illinois,50,53
+Kane,Illinois,90,91
+Kankakee,Illinois,71,70
+Kendall,Illinois,74,78
+Knox,Illinois,57,57
+Lake,Illinois,94,94
+LaSalle,Illinois,75,76
+Lawrence,Illinois,47,47
+Lee,Illinois,57,59
+Livingston,Illinois,45,46
+Logan,Illinois,61,65
+McDonough,Illinois,32,36
+McHenry,Illinois,86,88
+McLean,Illinois,81,84
+Macon,Illinois,77,79
+Macoupin,Illinois,72,73
+Madison,Illinois,92,93
+Marion,Illinois,73,72
+Marshall,Illinois,36,42
+Mason,Illinois,45,51
+Massac,Illinois,68,66
+Menard,Illinois,32,42
+Mercer,Illinois,24,30
+Monroe,Illinois,55,65
+Montgomery,Illinois,56,59
+Morgan,Illinois,62,64
+Moultrie,Illinois,33,33
+Ogle,Illinois,61,64
+Peoria,Illinois,85,85
+Perry,Illinois,70,68
+Piatt,Illinois,27,36
+Pike,Illinois,19,19
+Pope,Illinois,24,24
+Pulaski,Illinois,38,32
+Putnam,Illinois,11,15
+Randolph,Illinois,76,76
+Richland,Illinois,44,48
+Rock Island,Illinois,72,71
+St. Clair,Illinois,93,93
+Saline,Illinois,68,65
+Sangamon,Illinois,89,90
+Schuyler,Illinois,17,19
+Scott,Illinois,8,11
+Shelby,Illinois,33,39
+Stark,Illinois,16,21
+Stephenson,Illinois,68,69
+Tazewell,Illinois,82,85
+Union,Illinois,54,50
+Vermilion,Illinois,66,66
+Wabash,Illinois,24,25
+Warren,Illinois,25,29
+Washington,Illinois,48,54
+Wayne,Illinois,46,44
+White,Illinois,57,55
+Whiteside,Illinois,56,60
+Will,Illinois,93,95
+Williamson,Illinois,84,84
+Winnebago,Illinois,90,91
+Woodford,Illinois,50,57
+Adams,Indiana,43,42
+Allen,Indiana,86,87
+Bartholomew,Indiana,79,79
+Benton,Indiana,11,11
+Blackford,Indiana,12,13
+Boone,Indiana,38,47
+Brown,Indiana,13,15
+Carroll,Indiana,36,40
+Cass,Indiana,30,30
+Clark,Indiana,82,83
+Clay,Indiana,44,48
+Clinton,Indiana,40,39
+Crawford,Indiana,33,31
+Daviess,Indiana,59,56
+Dearborn,Indiana,47,54
+Decatur,Indiana,33,38
+DeKalb,Indiana,42,46
+Delaware,Indiana,74,74
+Dubois,Indiana,53,57
+Elkhart,Indiana,76,74
+Fayette,Indiana,31,30
+Floyd,Indiana,69,71
+Fountain,Indiana,35,34
+Franklin,Indiana,27,31
+Fulton,Indiana,19,20
+Gibson,Indiana,57,59
+Grant,Indiana,63,62
+Greene,Indiana,51,51
+Hamilton,Indiana,86,90
+Hancock,Indiana,49,56
+Harrison,Indiana,60,61
+Hendricks,Indiana,70,73
+Henry,Indiana,54,55
+Howard,Indiana,68,69
+Huntington,Indiana,37,42
+Jackson,Indiana,70,70
+Jasper,Indiana,41,42
+Jay,Indiana,33,32
+Jefferson,Indiana,59,59
+Jennings,Indiana,29,31
+Johnson,Indiana,82,84
+Knox,Indiana,66,64
+Kosciusko,Indiana,67,66
+LaGrange,Indiana,53,51
+Lake,Indiana,93,93
+LaPorte,Indiana,74,74
+Lawrence,Indiana,52,54
+Madison,Indiana,72,71
+Marion,Indiana,93,93
+Marshall,Indiana,43,41
+Martin,Indiana,14,15
+Miami,Indiana,28,30
+Monroe,Indiana,68,69
+Montgomery,Indiana,53,54
+Morgan,Indiana,63,66
+Newton,Indiana,16,16
+Noble,Indiana,49,48
+Ohio,Indiana,7,9
+Orange,Indiana,46,45
+Owen,Indiana,45,42
+Parke,Indiana,34,32
+Perry,Indiana,46,48
+Pike,Indiana,25,30
+Porter,Indiana,80,83
+Posey,Indiana,55,61
+Pulaski,Indiana,11,12
+Putnam,Indiana,38,43
+Randolph,Indiana,36,36
+Ripley,Indiana,50,49
+Rush,Indiana,21,23
+St. Joseph,Indiana,73,74
+Scott,Indiana,48,44
+Shelby,Indiana,53,55
+Spencer,Indiana,40,46
+Starke,Indiana,24,27
+Steuben,Indiana,29,35
+Sullivan,Indiana,34,34
+Switzerland,Indiana,23,18
+Tippecanoe,Indiana,78,79
+Tipton,Indiana,23,29
+Union,Indiana,6,6
+Vanderburgh,Indiana,90,91
+Vermillion,Indiana,31,32
+Vigo,Indiana,79,79
+Wabash,Indiana,45,47
+Warren,Indiana,9,13
+Warrick,Indiana,69,73
+Washington,Indiana,51,52
+Wayne,Indiana,62,61
+Wells,Indiana,31,36
+White,Indiana,26,30
+Whitley,Indiana,35,40
+Adair,Iowa,37,43
+Adams,Iowa,18,23
+Allamakee,Iowa,24,28
+Appanoose,Iowa,41,40
+Audubon,Iowa,30,42
+Benton,Iowa,48,58
+Black Hawk,Iowa,82,83
+Boone,Iowa,46,54
+Bremer,Iowa,38,51
+Buchanan,Iowa,45,53
+Buena Vista,Iowa,50,48
+Butler,Iowa,43,49
+Calhoun,Iowa,60,64
+Carroll,Iowa,63,69
+Cass,Iowa,46,52
+Cedar,Iowa,46,55
+Cerro Gordo,Iowa,66,69
+Cherokee,Iowa,37,45
+Chickasaw,Iowa,39,46
+Clarke,Iowa,34,32
+Clay,Iowa,51,57
+Clayton,Iowa,53,55
+Clinton,Iowa,71,72
+Crawford,Iowa,71,68
+Dallas,Iowa,73,78
+Davis,Iowa,42,36
+Decatur,Iowa,30,28
+Delaware,Iowa,59,65
+Des Moines,Iowa,69,69
+Dickinson,Iowa,44,50
+Dubuque,Iowa,78,81
+Emmet,Iowa,29,32
+Fayette,Iowa,56,60
+Floyd,Iowa,43,49
+Franklin,Iowa,42,46
+Fremont,Iowa,38,47
+Greene,Iowa,47,51
+Grundy,Iowa,35,47
+Guthrie,Iowa,53,56
+Hamilton,Iowa,42,52
+Hancock,Iowa,39,45
+Hardin,Iowa,61,65
+Harrison,Iowa,49,56
+Henry,Iowa,33,36
+Howard,Iowa,34,38
+Humboldt,Iowa,30,36
+Ida,Iowa,25,31
+Iowa,Iowa,54,59
+Jackson,Iowa,55,61
+Jasper,Iowa,57,61
+Jefferson,Iowa,21,21
+Johnson,Iowa,93,94
+Jones,Iowa,55,60
+Keokuk,Iowa,30,37
+Kossuth,Iowa,56,60
+Lee,Iowa,59,62
+Linn,Iowa,92,92
+Louisa,Iowa,50,50
+Lucas,Iowa,28,31
+Lyon,Iowa,34,39
+Madison,Iowa,25,36
+Mahaska,Iowa,43,50
+Marion,Iowa,44,51
+Marshall,Iowa,69,68
+Mills,Iowa,39,47
+Mitchell,Iowa,38,44
+Monona,Iowa,31,36
+Monroe,Iowa,22,26
+Montgomery,Iowa,40,47
+Muscatine,Iowa,55,55
+O'Brien,Iowa,67,68
+Osceola,Iowa,52,55
+Page,Iowa,44,51
+Palo Alto,Iowa,47,55
+Plymouth,Iowa,40,46
+Pocahontas,Iowa,37,40
+Polk,Iowa,92,92
+Pottawattamie,Iowa,84,84
+Poweshiek,Iowa,49,53
+Ringgold,Iowa,20,23
+Sac,Iowa,55,60
+Scott,Iowa,82,84
+Shelby,Iowa,42,49
+Sioux,Iowa,67,69
+Story,Iowa,76,79
+Tama,Iowa,53,55
+Taylor,Iowa,28,33
+Union,Iowa,36,38
+Van Buren,Iowa,27,27
+Wapello,Iowa,63,60
+Warren,Iowa,48,57
+Washington,Iowa,61,65
+Wayne,Iowa,25,28
+Webster,Iowa,75,77
+Winnebago,Iowa,32,37
+Winneshiek,Iowa,45,54
+Woodbury,Iowa,83,83
+Worth,Iowa,25,35
+Wright,Iowa,43,46
+Allen,Kansas,26,27
+Anderson,Kansas,21,21
+Atchison,Kansas,24,29
+Barber,Kansas,32,29
+Barton,Kansas,79,78
+Bourbon,Kansas,31,31
+Brown,Kansas,33,34
+Butler,Kansas,80,81
+Chase,Kansas,25,26
+Chautauqua,Kansas,32,22
+Cherokee,Kansas,64,63
+Cheyenne,Kansas,12,11
+Clark,Kansas,12,13
+Clay,Kansas,21,24
+Cloud,Kansas,14,16
+Coffey,Kansas,18,21
+Comanche,Kansas,12,14
+Cowley,Kansas,75,73
+Crawford,Kansas,75,73
+Decatur,Kansas,40,38
+Dickinson,Kansas,47,51
+Doniphan,Kansas,41,43
+Douglas,Kansas,80,81
+Edwards,Kansas,16,20
+Elk,Kansas,14,13
+Ellis,Kansas,42,47
+Ellsworth,Kansas,40,44
+Finney,Kansas,72,66
+Ford,Kansas,66,61
+Franklin,Kansas,53,54
+Geary,Kansas,65,65
+Gove,Kansas,29,31
+Graham,Kansas,11,10
+Grant,Kansas,42,41
+Gray,Kansas,39,38
+Greeley,Kansas,31,28
+Greenwood,Kansas,19,21
+Hamilton,Kansas,13,12
+Harper,Kansas,37,35
+Harvey,Kansas,70,67
+Haskell,Kansas,35,31
+Hodgeman,Kansas,20,23
+Jackson,Kansas,22,24
+Jefferson,Kansas,35,41
+Jewell,Kansas,43,45
+Johnson,Kansas,94,95
+Kearny,Kansas,28,23
+Kingman,Kansas,36,41
+Kiowa,Kansas,23,23
+Labette,Kansas,62,61
+Lane,Kansas,18,22
+Leavenworth,Kansas,74,76
+Lincoln,Kansas,12,14
+Linn,Kansas,26,25
+Logan,Kansas,13,13
+Lyon,Kansas,50,52
+McPherson,Kansas,66,68
+Marion,Kansas,54,55
+Marshall,Kansas,19,24
+Meade,Kansas,37,35
+Miami,Kansas,54,60
+Mitchell,Kansas,39,43
+Montgomery,Kansas,75,72
+Morris,Kansas,19,23
+Morton,Kansas,13,10
+Nemaha,Kansas,31,37
+Neosho,Kansas,56,54
+Ness,Kansas,22,26
+Norton,Kansas,40,39
+Osage,Kansas,36,37
+Osborne,Kansas,24,27
+Ottawa,Kansas,25,31
+Pawnee,Kansas,46,47
+Phillips,Kansas,48,52
+Pottawatomie,Kansas,38,44
+Pratt,Kansas,39,40
+Rawlins,Kansas,19,19
+Reno,Kansas,85,85
+Republic,Kansas,12,19
+Rice,Kansas,43,44
+Riley,Kansas,76,75
+Rooks,Kansas,37,40
+Rush,Kansas,24,29
+Russell,Kansas,23,24
+Saline,Kansas,78,77
+Scott,Kansas,33,29
+Sedgwick,Kansas,95,95
+Seward,Kansas,62,54
+Shawnee,Kansas,80,80
+Sheridan,Kansas,34,38
+Sherman,Kansas,29,30
+Smith,Kansas,40,46
+Stafford,Kansas,19,20
+Stanton,Kansas,15,11
+Stevens,Kansas,32,29
+Sumner,Kansas,65,63
+Thomas,Kansas,22,29
+Trego,Kansas,8,11
+Wabaunsee,Kansas,18,22
+Wallace,Kansas,18,20
+Washington,Kansas,30,35
+Wichita,Kansas,47,42
+Wilson,Kansas,41,38
+Woodson,Kansas,5,5
+Wyandotte,Kansas,87,85
+Adair,Kentucky,36,35
+Allen,Kentucky,45,42
+Anderson,Kentucky,33,37
+Ballard,Kentucky,45,43
+Barren,Kentucky,66,64
+Bath,Kentucky,17,17
+Bell,Kentucky,55,47
+Boone,Kentucky,75,79
+Bourbon,Kentucky,33,35
+Boyd,Kentucky,42,41
+Boyle,Kentucky,45,46
+Bracken,Kentucky,9,11
+Breathitt,Kentucky,30,25
+Breckinridge,Kentucky,52,50
+Bullitt,Kentucky,75,78
+Butler,Kentucky,24,22
+Caldwell,Kentucky,54,49
+Calloway,Kentucky,76,76
+Campbell,Kentucky,59,62
+Carlisle,Kentucky,33,33
+Carroll,Kentucky,28,22
+Carter,Kentucky,50,47
+Casey,Kentucky,28,23
+Christian,Kentucky,84,81
+Clark,Kentucky,48,50
+Clay,Kentucky,35,29
+Clinton,Kentucky,15,12
+Crittenden,Kentucky,41,40
+Cumberland,Kentucky,8,7
+Daviess,Kentucky,83,82
+Edmonson,Kentucky,21,20
+Elliott,Kentucky,8,8
+Estill,Kentucky,25,20
+Fayette,Kentucky,88,89
+Fleming,Kentucky,31,27
+Floyd,Kentucky,72,68
+Franklin,Kentucky,63,64
+Fulton,Kentucky,58,47
+Gallatin,Kentucky,15,14
+Garrard,Kentucky,20,23
+Grant,Kentucky,30,34
+Graves,Kentucky,84,81
+Grayson,Kentucky,35,34
+Green,Kentucky,19,16
+Greenup,Kentucky,30,31
+Hancock,Kentucky,36,38
+Hardin,Kentucky,72,72
+Harlan,Kentucky,44,34
+Harrison,Kentucky,36,36
+Hart,Kentucky,41,35
+Henderson,Kentucky,74,73
+Henry,Kentucky,25,24
+Hickman,Kentucky,42,37
+Hopkins,Kentucky,75,74
+Jackson,Kentucky,23,20
+Jefferson,Kentucky,96,96
+Jessamine,Kentucky,54,57
+Johnson,Kentucky,47,41
+Kenton,Kentucky,74,75
+Knott,Kentucky,21,16
+Knox,Kentucky,42,39
+Larue,Kentucky,15,17
+Laurel,Kentucky,70,67
+Lawrence,Kentucky,22,22
+Lee,Kentucky,14,11
+Leslie,Kentucky,12,12
+Letcher,Kentucky,30,26
+Lewis,Kentucky,35,30
+Lincoln,Kentucky,22,21
+Livingston,Kentucky,35,38
+Logan,Kentucky,55,52
+Lyon,Kentucky,32,35
+McCracken,Kentucky,90,90
+McCreary,Kentucky,20,17
+McLean,Kentucky,44,44
+Madison,Kentucky,68,69
+Magoffin,Kentucky,41,33
+Marion,Kentucky,33,30
+Marshall,Kentucky,72,72
+Martin,Kentucky,34,29
+Mason,Kentucky,27,28
+Meade,Kentucky,44,50
+Menifee,Kentucky,10,10
+Mercer,Kentucky,36,36
+Metcalfe,Kentucky,21,19
+Monroe,Kentucky,22,20
+Montgomery,Kentucky,38,35
+Morgan,Kentucky,23,21
+Muhlenberg,Kentucky,51,52
+Nelson,Kentucky,54,58
+Nicholas,Kentucky,17,16
+Ohio,Kentucky,52,52
+Oldham,Kentucky,60,70
+Owen,Kentucky,20,22
+Owsley,Kentucky,8,7
+Pendleton,Kentucky,53,49
+Perry,Kentucky,32,31
+Pike,Kentucky,69,65
+Powell,Kentucky,31,28
+Pulaski,Kentucky,69,66
+Robertson,Kentucky,2,2
+Rockcastle,Kentucky,18,15
+Rowan,Kentucky,31,32
+Russell,Kentucky,29,25
+Scott,Kentucky,55,60
+Shelby,Kentucky,63,66
+Simpson,Kentucky,38,39
+Spencer,Kentucky,29,37
+Taylor,Kentucky,40,41
+Todd,Kentucky,55,46
+Trigg,Kentucky,51,50
+Trimble,Kentucky,28,24
+Union,Kentucky,52,54
+Warren,Kentucky,83,82
+Washington,Kentucky,24,26
+Wayne,Kentucky,16,15
+Webster,Kentucky,51,45
+Whitley,Kentucky,56,53
+Wolfe,Kentucky,10,7
+Woodford,Kentucky,37,44
+Acadia,Louisiana,91,89
+Allen,Louisiana,64,62
+Ascension,Louisiana,96,97
+Assumption,Louisiana,86,84
+Avoyelles,Louisiana,80,75
+Beauregard,Louisiana,72,69
+Bienville,Louisiana,34,24
+Bossier,Louisiana,90,90
+Caddo,Louisiana,90,88
+Calcasieu,Louisiana,97,97
+Caldwell,Louisiana,25,23
+Cameron,Louisiana,56,59
+Catahoula,Louisiana,32,27
+Claiborne,Louisiana,35,29
+Concordia,Louisiana,52,46
+De Soto,Louisiana,51,46
+East Baton Rouge,Louisiana,99,99
+East Carroll,Louisiana,38,29
+East Feliciana,Louisiana,62,57
+Evangeline,Louisiana,81,75
+Franklin,Louisiana,67,61
+Grant,Louisiana,34,33
+Iberia,Louisiana,94,93
+Iberville,Louisiana,83,81
+Jackson,Louisiana,28,24
+Jefferson,Louisiana,98,98
+Jefferson Davis,Louisiana,88,87
+Lafayette,Louisiana,98,98
+Lafourche,Louisiana,94,94
+LaSalle,Louisiana,18,18
+Lincoln,Louisiana,69,64
+Livingston,Louisiana,97,97
+Madison,Louisiana,51,40
+Morehouse,Louisiana,56,51
+Natchitoches,Louisiana,62,56
+Orleans,Louisiana,97,97
+Ouachita,Louisiana,86,84
+Plaquemines,Louisiana,83,82
+Pointe Coupee,Louisiana,69,65
+Rapides,Louisiana,83,81
+Red River,Louisiana,28,22
+Richland,Louisiana,68,61
+Sabine,Louisiana,63,57
+St. Bernard,Louisiana,87,85
+St. Charles,Louisiana,90,91
+St. Helena,Louisiana,48,36
+St. James,Louisiana,77,77
+St. John the Baptist,Louisiana,87,86
+St. Landry,Louisiana,92,91
+St. Martin,Louisiana,91,91
+St. Mary,Louisiana,95,94
+St. Tammany,Louisiana,98,98
+Tangipahoa,Louisiana,96,95
+Tensas,Louisiana,31,25
+Terrebonne,Louisiana,96,96
+Union,Louisiana,45,42
+Vermilion,Louisiana,90,89
+Vernon,Louisiana,73,70
+Washington,Louisiana,89,87
+Webster,Louisiana,54,46
+West Baton Rouge,Louisiana,62,62
+West Carroll,Louisiana,32,28
+West Feliciana,Louisiana,39,40
+Winn,Louisiana,22,19
+Androscoggin,Maine,67,68
+Aroostook,Maine,61,59
+Cumberland,Maine,85,87
+Franklin,Maine,39,40
+Hancock,Maine,69,70
+Kennebec,Maine,78,79
+Knox,Maine,50,55
+Lincoln,Maine,51,53
+Oxford,Maine,60,61
+Penobscot,Maine,73,74
+Piscataquis,Maine,18,18
+Sagadahoc,Maine,30,36
+Somerset,Maine,68,66
+Waldo,Maine,53,53
+Washington,Maine,58,54
+York,Maine,84,86
+Allegany,Maryland,42,43
+Anne Arundel,Maryland,92,93
+Baltimore,Maryland,95,96
+Calvert,Maryland,67,73
+Caroline,Maryland,76,74
+Carroll,Maryland,63,70
+Cecil,Maryland,78,78
+Charles,Maryland,73,76
+Dorchester,Maryland,75,75
+Frederick,Maryland,79,82
+Garrett,Maryland,9,10
+Harford,Maryland,83,85
+Howard,Maryland,80,83
+Kent,Maryland,66,66
+Montgomery,Maryland,94,94
+Prince George's,Maryland,95,94
+Queen Anne's,Maryland,73,76
+St. Mary's,Maryland,82,83
+Somerset,Maryland,77,75
+Talbot,Maryland,76,79
+Washington,Maryland,70,68
+Wicomico,Maryland,87,86
+Worcester,Maryland,87,86
+Baltimore,Maryland,94,93
+Barnstable,Massachusetts,86,88
+Berkshire,Massachusetts,60,63
+Bristol,Massachusetts,90,90
+Dukes,Massachusetts,44,48
+Essex,Massachusetts,94,94
+Franklin,Massachusetts,53,54
+Hampden,Massachusetts,84,83
+Hampshire,Massachusetts,63,67
+Middlesex,Massachusetts,96,97
+Nantucket,Massachusetts,85,87
+Norfolk,Massachusetts,93,94
+Plymouth,Massachusetts,91,93
+Suffolk,Massachusetts,93,93
+Worcester,Massachusetts,93,93
+Alcona,Michigan,3,3
+Alger,Michigan,1,1
+Allegan,Michigan,51,56
+Alpena,Michigan,6,7
+Antrim,Michigan,6,7
+Arenac,Michigan,7,8
+Baraga,Michigan,2,1
+Barry,Michigan,40,46
+Bay,Michigan,71,71
+Benzie,Michigan,3,3
+Berrien,Michigan,67,67
+Branch,Michigan,44,41
+Calhoun,Michigan,73,71
+Cass,Michigan,36,37
+Charlevoix,Michigan,3,4
+Cheboygan,Michigan,7,8
+Chippewa,Michigan,6,6
+Clare,Michigan,30,26
+Clinton,Michigan,65,70
+Crawford,Michigan,11,12
+Delta,Michigan,8,9
+Dickinson,Michigan,9,10
+Eaton,Michigan,64,66
+Emmet,Michigan,6,7
+Genesee,Michigan,89,89
+Gladwin,Michigan,15,13
+Gogebic,Michigan,5,6
+Grand Traverse,Michigan,39,44
+Gratiot,Michigan,48,48
+Hillsdale,Michigan,49,49
+Houghton,Michigan,5,5
+Huron,Michigan,28,30
+Ingham,Michigan,83,83
+Ionia,Michigan,58,59
+Iosco,Michigan,14,14
+Iron,Michigan,4,5
+Isabella,Michigan,58,57
+Jackson,Michigan,74,75
+Kalamazoo,Michigan,81,82
+Kalkaska,Michigan,9,9
+Kent,Michigan,89,90
+Keweenaw,Michigan,0,0
+Lake,Michigan,4,3
+Lapeer,Michigan,67,68
+Leelanau,Michigan,4,6
+Lenawee,Michigan,65,65
+Livingston,Michigan,78,84
+Luce,Michigan,0,0
+Mackinac,Michigan,1,1
+Macomb,Michigan,95,95
+Manistee,Michigan,3,4
+Marquette,Michigan,38,44
+Mason,Michigan,9,10
+Mecosta,Michigan,33,33
+Menominee,Michigan,8,9
+Midland,Michigan,65,68
+Missaukee,Michigan,10,9
+Monroe,Michigan,73,75
+Montcalm,Michigan,63,62
+Montmorency,Michigan,4,5
+Muskegon,Michigan,61,61
+Newaygo,Michigan,29,26
+Oakland,Michigan,96,97
+Oceana,Michigan,14,11
+Ogemaw,Michigan,19,18
+Ontonagon,Michigan,1,1
+Osceola,Michigan,16,14
+Oscoda,Michigan,9,8
+Otsego,Michigan,18,19
+Ottawa,Michigan,78,81
+Presque Isle,Michigan,3,3
+Roscommon,Michigan,21,21
+Saginaw,Michigan,79,80
+St. Clair,Michigan,71,72
+St. Joseph,Michigan,49,47
+Sanilac,Michigan,40,38
+Schoolcraft,Michigan,1,0
+Shiawassee,Michigan,68,70
+Tuscola,Michigan,50,51
+Van Buren,Michigan,53,51
+Washtenaw,Michigan,85,87
+Wayne,Michigan,97,97
+Wexford,Michigan,9,10
+Aitkin,Minnesota,11,12
+Anoka,Minnesota,90,92
+Becker,Minnesota,34,35
+Beltrami,Minnesota,36,35
+Benton,Minnesota,55,58
+Big Stone,Minnesota,7,9
+Blue Earth,Minnesota,68,70
+Brown,Minnesota,56,60
+Carlton,Minnesota,29,32
+Carver,Minnesota,75,81
+Cass,Minnesota,23,23
+Chippewa,Minnesota,27,28
+Chisago,Minnesota,62,68
+Clay,Minnesota,59,63
+Clearwater,Minnesota,11,9
+Cook,Minnesota,2,2
+Cottonwood,Minnesota,45,45
+Crow Wing,Minnesota,41,48
+Dakota,Minnesota,93,94
+Dodge,Minnesota,30,37
+Douglas,Minnesota,32,39
+Faribault,Minnesota,40,47
+Fillmore,Minnesota,46,47
+Freeborn,Minnesota,61,63
+Goodhue,Minnesota,61,65
+Grant,Minnesota,8,9
+Hennepin,Minnesota,96,96
+Houston,Minnesota,34,38
+Hubbard,Minnesota,17,20
+Isanti,Minnesota,44,51
+Itasca,Minnesota,17,19
+Jackson,Minnesota,33,41
+Kanabec,Minnesota,19,22
+Kandiyohi,Minnesota,55,57
+Kittson,Minnesota,21,25
+Koochiching,Minnesota,1,1
+Lac qui Parle,Minnesota,15,19
+Lake,Minnesota,2,3
+Lake of the Woods,Minnesota,2,4
+Le Sueur,Minnesota,33,40
+Lincoln,Minnesota,12,14
+Lyon,Minnesota,42,44
+McLeod,Minnesota,47,53
+Mahnomen,Minnesota,7,4
+Marshall,Minnesota,44,50
+Martin,Minnesota,55,57
+Meeker,Minnesota,45,50
+Mille Lacs,Minnesota,20,20
+Morrison,Minnesota,49,53
+Mower,Minnesota,64,64
+Murray,Minnesota,31,36
+Nicollet,Minnesota,52,57
+Nobles,Minnesota,65,63
+Norman,Minnesota,26,27
+Olmsted,Minnesota,80,82
+Otter Tail,Minnesota,63,66
+Pennington,Minnesota,25,33
+Pine,Minnesota,37,36
+Pipestone,Minnesota,32,34
+Polk,Minnesota,60,62
+Pope,Minnesota,14,21
+Ramsey,Minnesota,92,92
+Red Lake,Minnesota,4,5
+Redwood,Minnesota,33,37
+Renville,Minnesota,48,51
+Rice,Minnesota,71,73
+Rock,Minnesota,29,35
+Roseau,Minnesota,62,65
+St. Louis,Minnesota,67,69
+Scott,Minnesota,83,87
+Sherburne,Minnesota,64,73
+Sibley,Minnesota,35,39
+Stearns,Minnesota,81,82
+Steele,Minnesota,71,71
+Stevens,Minnesota,15,17
+Swift,Minnesota,19,21
+Todd,Minnesota,27,27
+Traverse,Minnesota,13,13
+Wabasha,Minnesota,49,55
+Wadena,Minnesota,16,13
+Waseca,Minnesota,34,38
+Washington,Minnesota,87,90
+Watonwan,Minnesota,37,34
+Wilkin,Minnesota,17,22
+Winona,Minnesota,60,63
+Wright,Minnesota,80,83
+Yellow Medicine,Minnesota,25,28
+Adams,Mississippi,54,47
+Alcorn,Mississippi,70,64
+Amite,Mississippi,53,43
+Attala,Mississippi,46,37
+Benton,Mississippi,17,16
+Bolivar,Mississippi,75,66
+Calhoun,Mississippi,37,28
+Carroll,Mississippi,16,15
+Chickasaw,Mississippi,50,40
+Choctaw,Mississippi,19,16
+Claiborne,Mississippi,41,28
+Clarke,Mississippi,51,46
+Clay,Mississippi,44,40
+Coahoma,Mississippi,67,60
+Copiah,Mississippi,63,58
+Covington,Mississippi,63,57
+DeSoto,Mississippi,91,91
+Forrest,Mississippi,87,84
+Franklin,Mississippi,25,23
+George,Mississippi,87,84
+Greene,Mississippi,60,56
+Grenada,Mississippi,53,48
+Hancock,Mississippi,88,89
+Harrison,Mississippi,97,97
+Hinds,Mississippi,93,92
+Holmes,Mississippi,61,46
+Humphreys,Mississippi,32,20
+Issaquena,Mississippi,33,17
+Itawamba,Mississippi,32,33
+Jackson,Mississippi,96,96
+Jasper,Mississippi,49,46
+Jefferson,Mississippi,13,10
+Jefferson Davis,Mississippi,30,24
+Jones,Mississippi,87,86
+Kemper,Mississippi,25,16
+Lafayette,Mississippi,67,68
+Lamar,Mississippi,77,76
+Lauderdale,Mississippi,86,82
+Lawrence,Mississippi,46,37
+Leake,Mississippi,60,50
+Lee,Mississippi,79,76
+Leflore,Mississippi,75,69
+Lincoln,Mississippi,58,55
+Lowndes,Mississippi,78,75
+Madison,Mississippi,83,85
+Marion,Mississippi,82,77
+Marshall,Mississippi,73,68
+Monroe,Mississippi,63,60
+Montgomery,Mississippi,22,17
+Neshoba,Mississippi,71,62
+Newton,Mississippi,58,53
+Noxubee,Mississippi,39,26
+Oktibbeha,Mississippi,70,66
+Panola,Mississippi,67,63
+Pearl River,Mississippi,90,90
+Perry,Mississippi,49,42
+Pike,Mississippi,77,72
+Pontotoc,Mississippi,59,52
+Prentiss,Mississippi,47,44
+Quitman,Mississippi,31,19
+Rankin,Mississippi,85,86
+Scott,Mississippi,72,62
+Sharkey,Mississippi,29,19
+Simpson,Mississippi,55,50
+Smith,Mississippi,55,52
+Stone,Mississippi,83,80
+Sunflower,Mississippi,68,58
+Tallahatchie,Mississippi,45,35
+Tate,Mississippi,62,57
+Tippah,Mississippi,55,49
+Tishomingo,Mississippi,35,33
+Tunica,Mississippi,65,56
+Union,Mississippi,45,39
+Walthall,Mississippi,49,43
+Warren,Mississippi,77,72
+Washington,Mississippi,84,78
+Wayne,Mississippi,69,63
+Webster,Mississippi,18,17
+Wilkinson,Mississippi,34,25
+Winston,Mississippi,52,41
+Yalobusha,Mississippi,23,20
+Yazoo,Mississippi,72,62
+Adair,Missouri,52,53
+Andrew,Missouri,50,56
+Atchison,Missouri,30,31
+Audrain,Missouri,43,43
+Barry,Missouri,78,75
+Barton,Missouri,53,47
+Bates,Missouri,43,39
+Benton,Missouri,56,52
+Bollinger,Missouri,53,48
+Boone,Missouri,87,87
+Buchanan,Missouri,69,67
+Butler,Missouri,87,85
+Caldwell,Missouri,9,9
+Callaway,Missouri,61,63
+Camden,Missouri,72,73
+Cape Girardeau,Missouri,87,87
+Carroll,Missouri,42,42
+Carter,Missouri,39,35
+Cass,Missouri,76,78
+Cedar,Missouri,33,29
+Chariton,Missouri,22,24
+Christian,Missouri,72,73
+Clark,Missouri,24,25
+Clay,Missouri,87,88
+Clinton,Missouri,56,59
+Cole,Missouri,75,76
+Cooper,Missouri,45,45
+Crawford,Missouri,55,49
+Dade,Missouri,30,24
+Dallas,Missouri,52,47
+Daviess,Missouri,31,27
+DeKalb,Missouri,31,36
+Dent,Missouri,46,39
+Douglas,Missouri,27,24
+Dunklin,Missouri,84,78
+Franklin,Missouri,82,83
+Gasconade,Missouri,21,26
+Gentry,Missouri,33,29
+Greene,Missouri,91,92
+Grundy,Missouri,39,34
+Harrison,Missouri,27,26
+Henry,Missouri,41,37
+Hickory,Missouri,26,25
+Holt,Missouri,23,27
+Howard,Missouri,28,30
+Howell,Missouri,82,79
+Iron,Missouri,52,45
+Jackson,Missouri,96,96
+Jasper,Missouri,85,83
+Jefferson,Missouri,87,88
+Johnson,Missouri,51,54
+Knox,Missouri,16,15
+Laclede,Missouri,69,66
+Lafayette,Missouri,47,48
+Lawrence,Missouri,75,70
+Lewis,Missouri,23,23
+Lincoln,Missouri,73,73
+Linn,Missouri,34,38
+Livingston,Missouri,43,44
+McDonald,Missouri,77,71
+Macon,Missouri,43,41
+Madison,Missouri,53,50
+Maries,Missouri,30,27
+Marion,Missouri,42,44
+Mercer,Missouri,13,13
+Miller,Missouri,61,61
+Mississippi,Missouri,78,73
+Moniteau,Missouri,42,42
+Monroe,Missouri,21,19
+Montgomery,Missouri,24,22
+Morgan,Missouri,57,53
+New Madrid,Missouri,83,78
+Newton,Missouri,82,80
+Nodaway,Missouri,57,58
+Oregon,Missouri,52,41
+Osage,Missouri,29,38
+Ozark,Missouri,38,32
+Pemiscot,Missouri,81,74
+Perry,Missouri,60,61
+Pettis,Missouri,71,67
+Phelps,Missouri,56,53
+Pike,Missouri,41,40
+Platte,Missouri,74,78
+Polk,Missouri,64,61
+Pulaski,Missouri,71,70
+Putnam,Missouri,16,16
+Ralls,Missouri,13,14
+Randolph,Missouri,46,45
+Ray,Missouri,30,35
+Reynolds,Missouri,38,32
+Ripley,Missouri,54,48
+St. Charles,Missouri,93,95
+St. Clair,Missouri,13,12
+Ste. Genevieve,Missouri,47,53
+St. Francois,Missouri,79,77
+St. Louis,Missouri,99,99
+Saline,Missouri,46,46
+Schuyler,Missouri,8,9
+Scotland,Missouri,22,22
+Scott,Missouri,88,86
+Shannon,Missouri,34,27
+Shelby,Missouri,20,20
+Stoddard,Missouri,80,77
+Stone,Missouri,58,57
+Sullivan,Missouri,19,21
+Taney,Missouri,74,72
+Texas,Missouri,60,53
+Vernon,Missouri,37,35
+Warren,Missouri,65,66
+Washington,Missouri,55,49
+Wayne,Missouri,65,59
+Webster,Missouri,66,65
+Worth,Missouri,5,5
+Wright,Missouri,52,43
+St. Louis,Missouri,95,95
+Beaverhead,Montana,18,20
+Big Horn,Montana,30,23
+Blaine,Montana,16,12
+Broadwater,Montana,5,7
+Carbon,Montana,25,31
+Carter,Montana,2,2
+Cascade,Montana,56,56
+Chouteau,Montana,6,6
+Custer,Montana,36,38
+Daniels,Montana,3,4
+Dawson,Montana,15,18
+Deer Lodge,Montana,9,9
+Fallon,Montana,3,4
+Fergus,Montana,10,11
+Flathead,Montana,84,85
+Gallatin,Montana,70,74
+Garfield,Montana,2,4
+Glacier,Montana,17,12
+Golden Valley,Montana,1,1
+Granite,Montana,10,12
+Hill,Montana,15,16
+Jefferson,Montana,12,14
+Judith Basin,Montana,1,2
+Lake,Montana,68,64
+Lewis and Clark,Montana,51,56
+Liberty,Montana,2,2
+Lincoln,Montana,36,34
+McCone,Montana,4,5
+Madison,Montana,18,23
+Meagher,Montana,1,1
+Mineral,Montana,9,9
+Missoula,Montana,78,80
+Musselshell,Montana,15,15
+Park,Montana,24,30
+Petroleum,Montana,0,0
+Phillips,Montana,10,9
+Pondera,Montana,6,5
+Powder River,Montana,5,7
+Powell,Montana,12,12
+Prairie,Montana,2,2
+Ravalli,Montana,88,88
+Richland,Montana,21,25
+Roosevelt,Montana,48,35
+Rosebud,Montana,7,7
+Sanders,Montana,17,16
+Sheridan,Montana,8,10
+Silver Bow,Montana,55,55
+Stillwater,Montana,15,20
+Sweet Grass,Montana,11,14
+Teton,Montana,7,7
+Toole,Montana,4,4
+Treasure,Montana,2,2
+Valley,Montana,35,39
+Wheatland,Montana,4,5
+Wibaux,Montana,2,2
+Yellowstone,Montana,59,62
+Adams,Nebraska,77,79
+Antelope,Nebraska,23,28
+Arthur,Nebraska,1,2
+Banner,Nebraska,2,3
+Blaine,Nebraska,0,1
+Boone,Nebraska,28,34
+Box Butte,Nebraska,20,21
+Boyd,Nebraska,5,7
+Brown,Nebraska,8,10
+Buffalo,Nebraska,79,79
+Burt,Nebraska,33,33
+Butler,Nebraska,39,48
+Cass,Nebraska,42,50
+Cedar,Nebraska,33,40
+Chase,Nebraska,43,38
+Cherry,Nebraska,14,17
+Cheyenne,Nebraska,35,37
+Clay,Nebraska,64,65
+Colfax,Nebraska,47,44
+Cuming,Nebraska,37,39
+Custer,Nebraska,30,32
+Dakota,Nebraska,57,49
+Dawes,Nebraska,11,12
+Dawson,Nebraska,79,77
+Deuel,Nebraska,5,6
+Dixon,Nebraska,28,28
+Dodge,Nebraska,79,78
+Douglas,Nebraska,96,96
+Dundy,Nebraska,13,14
+Fillmore,Nebraska,54,60
+Franklin,Nebraska,36,39
+Frontier,Nebraska,19,19
+Furnas,Nebraska,59,58
+Gage,Nebraska,57,62
+Garden,Nebraska,8,8
+Garfield,Nebraska,2,3
+Gosper,Nebraska,26,36
+Grant,Nebraska,1,2
+Greeley,Nebraska,27,32
+Hall,Nebraska,84,82
+Hamilton,Nebraska,61,68
+Harlan,Nebraska,51,51
+Hayes,Nebraska,5,7
+Hitchcock,Nebraska,9,8
+Holt,Nebraska,23,28
+Hooker,Nebraska,1,1
+Howard,Nebraska,52,57
+Jefferson,Nebraska,29,34
+Johnson,Nebraska,14,15
+Kearney,Nebraska,59,65
+Keith,Nebraska,21,22
+Keya Paha,Nebraska,1,1
+Kimball,Nebraska,11,9
+Knox,Nebraska,36,36
+Lancaster,Nebraska,93,93
+Lincoln,Nebraska,60,60
+Logan,Nebraska,1,2
+Loup,Nebraska,1,1
+McPherson,Nebraska,0,0
+Madison,Nebraska,67,66
+Merrick,Nebraska,59,61
+Morrill,Nebraska,29,25
+Nance,Nebraska,37,39
+Nemaha,Nebraska,24,26
+Nuckolls,Nebraska,38,44
+Otoe,Nebraska,41,44
+Pawnee,Nebraska,11,9
+Perkins,Nebraska,20,24
+Phelps,Nebraska,65,69
+Pierce,Nebraska,20,23
+Platte,Nebraska,75,76
+Polk,Nebraska,60,61
+Red Willow,Nebraska,39,41
+Richardson,Nebraska,22,27
+Rock,Nebraska,3,4
+Saline,Nebraska,71,70
+Sarpy,Nebraska,88,90
+Saunders,Nebraska,50,59
+Scotts Bluff,Nebraska,60,58
+Seward,Nebraska,58,63
+Sheridan,Nebraska,21,18
+Sherman,Nebraska,27,29
+Sioux,Nebraska,6,7
+Stanton,Nebraska,17,23
+Thayer,Nebraska,60,63
+Thomas,Nebraska,0,1
+Thurston,Nebraska,40,28
+Valley,Nebraska,26,33
+Washington,Nebraska,54,60
+Wayne,Nebraska,27,37
+Webster,Nebraska,59,61
+Wheeler,Nebraska,1,3
+York,Nebraska,69,71
+Churchill,Nevada,73,70
+Clark,Nevada,99,99
+Douglas,Nevada,87,88
+Elko,Nevada,93,92
+Esmeralda,Nevada,33,18
+Eureka,Nevada,50,51
+Humboldt,Nevada,83,80
+Lander,Nevada,61,52
+Lincoln,Nevada,53,44
+Lyon,Nevada,88,86
+Mineral,Nevada,32,25
+Nye,Nevada,79,74
+Pershing,Nevada,56,41
+Storey,Nevada,59,59
+Washoe,Nevada,99,98
+White Pine,Nevada,17,18
+Carson City,Nevada,91,89
+Belknap,New Hampshire,47,54
+Carroll,New Hampshire,59,62
+Cheshire,New Hampshire,60,62
+Coos,New Hampshire,41,40
+Grafton,New Hampshire,66,68
+Hillsborough,New Hampshire,89,90
+Merrimack,New Hampshire,74,76
+Rockingham,New Hampshire,84,87
+Strafford,New Hampshire,63,66
+Sullivan,New Hampshire,32,35
+Atlantic,New Jersey,97,97
+Bergen,New Jersey,99,99
+Burlington,New Jersey,93,94
+Camden,New Jersey,91,91
+Cape May,New Jersey,95,95
+Cumberland,New Jersey,92,91
+Essex,New Jersey,93,92
+Gloucester,New Jersey,85,86
+Hudson,New Jersey,95,95
+Hunterdon,New Jersey,79,84
+Mercer,New Jersey,93,93
+Middlesex,New Jersey,96,96
+Monmouth,New Jersey,96,97
+Morris,New Jersey,91,92
+Ocean,New Jersey,97,98
+Passaic,New Jersey,90,88
+Salem,New Jersey,80,80
+Somerset,New Jersey,93,94
+Sussex,New Jersey,70,75
+Union,New Jersey,92,92
+Warren,New Jersey,75,77
+Bernalillo,New Mexico,89,88
+Catron,New Mexico,32,30
+Chaves,New Mexico,56,46
+Cibola,New Mexico,26,17
+Colfax,New Mexico,67,57
+Curry,New Mexico,66,59
+De Baca,New Mexico,2,2
+Doña Ana,New Mexico,88,83
+Eddy,New Mexico,48,43
+Grant,New Mexico,61,57
+Guadalupe,New Mexico,3,2
+Harding,New Mexico,0,0
+Hidalgo,New Mexico,14,11
+Lea,New Mexico,88,84
+Lincoln,New Mexico,79,77
+Los Alamos,New Mexico,11,19
+Luna,New Mexico,57,42
+McKinley,New Mexico,54,37
+Mora,New Mexico,29,27
+Otero,New Mexico,86,82
+Quay,New Mexico,10,10
+Rio Arriba,New Mexico,63,56
+Roosevelt,New Mexico,84,80
+Sandoval,New Mexico,79,76
+San Juan,New Mexico,70,59
+San Miguel,New Mexico,56,46
+Santa Fe,New Mexico,81,82
+Sierra,New Mexico,19,14
+Socorro,New Mexico,56,43
+Taos,New Mexico,55,49
+Torrance,New Mexico,31,22
+Union,New Mexico,6,3
+Valencia,New Mexico,74,68
+Albany,New York,76,77
+Allegany,New York,37,37
+Bronx,New York,96,95
+Broome,New York,83,84
+Cattaraugus,New York,64,62
+Cayuga,New York,31,33
+Chautauqua,New York,64,64
+Chemung,New York,49,51
+Chenango,New York,71,67
+Clinton,New York,44,45
+Columbia,New York,62,63
+Cortland,New York,39,42
+Delaware,New York,83,80
+Dutchess,New York,77,78
+Erie,New York,85,86
+Essex,New York,51,55
+Franklin,New York,25,24
+Fulton,New York,27,29
+Genesee,New York,21,26
+Greene,New York,58,60
+Hamilton,New York,3,4
+Herkimer,New York,35,36
+Jefferson,New York,41,41
+Kings,New York,98,98
+Lewis,New York,8,10
+Livingston,New York,36,38
+Madison,New York,34,40
+Monroe,New York,74,75
+Montgomery,New York,33,30
+Nassau,New York,97,97
+New York,New York,96,96
+Niagara,New York,46,52
+Oneida,New York,72,72
+Onondaga,New York,77,78
+Ontario,New York,46,52
+Orange,New York,85,85
+Orleans,New York,8,8
+Oswego,New York,29,31
+Otsego,New York,49,52
+Putnam,New York,51,57
+Queens,New York,97,97
+Rensselaer,New York,68,71
+Richmond,New York,91,91
+Rockland,New York,85,85
+St. Lawrence,New York,45,42
+Saratoga,New York,69,73
+Schenectady,New York,54,56
+Schoharie,New York,42,40
+Schuyler,New York,12,12
+Seneca,New York,13,13
+Steuben,New York,64,65
+Suffolk,New York,97,98
+Sullivan,New York,81,80
+Tioga,New York,74,73
+Tompkins,New York,47,49
+Ulster,New York,82,81
+Warren,New York,41,47
+Washington,New York,38,40
+Wayne,New York,31,32
+Westchester,New York,94,94
+Wyoming,New York,25,30
+Yates,New York,23,23
+Alamance,North Carolina,74,72
+Alexander,North Carolina,35,31
+Alleghany,North Carolina,8,7
+Anson,North Carolina,64,58
+Ashe,North Carolina,26,26
+Avery,North Carolina,47,43
+Beaufort,North Carolina,95,93
+Bertie,North Carolina,82,75
+Bladen,North Carolina,91,89
+Brunswick,North Carolina,97,98
+Buncombe,North Carolina,81,81
+Burke,North Carolina,65,59
+Cabarrus,North Carolina,80,81
+Caldwell,North Carolina,61,57
+Camden,North Carolina,49,45
+Carteret,North Carolina,97,97
+Caswell,North Carolina,25,21
+Catawba,North Carolina,78,75
+Chatham,North Carolina,63,63
+Cherokee,North Carolina,36,35
+Chowan,North Carolina,67,63
+Clay,North Carolina,8,8
+Cleveland,North Carolina,71,65
+Columbus,North Carolina,91,88
+Craven,North Carolina,96,96
+Cumberland,North Carolina,93,91
+Currituck,North Carolina,63,68
+Dare,North Carolina,95,96
+Davidson,North Carolina,76,74
+Davie,North Carolina,37,36
+Duplin,North Carolina,93,92
+Durham,North Carolina,87,86
+Edgecombe,North Carolina,81,76
+Forsyth,North Carolina,81,80
+Franklin,North Carolina,60,55
+Gaston,North Carolina,82,81
+Gates,North Carolina,30,27
+Graham,North Carolina,9,8
+Granville,North Carolina,63,59
+Greene,North Carolina,80,71
+Guilford,North Carolina,86,85
+Halifax,North Carolina,79,72
+Harnett,North Carolina,87,84
+Haywood,North Carolina,62,61
+Henderson,North Carolina,71,69
+Hertford,North Carolina,81,74
+Hoke,North Carolina,66,58
+Hyde,North Carolina,83,79
+Iredell,North Carolina,76,77
+Jackson,North Carolina,47,44
+Johnston,North Carolina,87,86
+Jones,North Carolina,80,73
+Lee,North Carolina,73,68
+Lenoir,North Carolina,92,90
+Lincoln,North Carolina,65,67
+McDowell,North Carolina,55,52
+Macon,North Carolina,45,40
+Madison,North Carolina,35,34
+Martin,North Carolina,82,77
+Mecklenburg,North Carolina,92,92
+Mitchell,North Carolina,11,11
+Montgomery,North Carolina,51,48
+Moore,North Carolina,81,81
+Nash,North Carolina,86,84
+New Hanover,North Carolina,99,99
+Northampton,North Carolina,53,46
+Onslow,North Carolina,98,98
+Orange,North Carolina,73,74
+Pamlico,North Carolina,85,84
+Pasquotank,North Carolina,84,82
+Pender,North Carolina,94,94
+Perquimans,North Carolina,63,59
+Person,North Carolina,34,30
+Pitt,North Carolina,94,93
+Polk,North Carolina,19,20
+Randolph,North Carolina,76,72
+Richmond,North Carolina,75,69
+Robeson,North Carolina,94,92
+Rockingham,North Carolina,57,51
+Rowan,North Carolina,73,68
+Rutherford,North Carolina,59,54
+Sampson,North Carolina,94,92
+Scotland,North Carolina,76,68
+Stanly,North Carolina,57,56
+Stokes,North Carolina,17,16
+Surry,North Carolina,47,40
+Swain,North Carolina,26,18
+Transylvania,North Carolina,42,42
+Tyrrell,North Carolina,74,67
+Union,North Carolina,86,87
+Vance,North Carolina,54,44
+Wake,North Carolina,94,94
+Warren,North Carolina,54,42
+Washington,North Carolina,84,78
+Watauga,North Carolina,58,57
+Wayne,North Carolina,94,93
+Wilkes,North Carolina,55,52
+Wilson,North Carolina,85,81
+Yadkin,North Carolina,24,21
+Yancey,North Carolina,15,13
+Adams,North Dakota,7,8
+Barnes,North Dakota,47,57
+Benson,North Dakota,20,15
+Billings,North Dakota,4,5
+Bottineau,North Dakota,34,45
+Bowman,North Dakota,9,13
+Burke,North Dakota,3,5
+Burleigh,North Dakota,78,80
+Cass,North Dakota,91,93
+Cavalier,North Dakota,27,35
+Dickey,North Dakota,24,34
+Divide,North Dakota,20,22
+Dunn,North Dakota,31,28
+Eddy,North Dakota,10,9
+Emmons,North Dakota,62,64
+Foster,North Dakota,18,24
+Golden Valley,North Dakota,5,6
+Grand Forks,North Dakota,83,86
+Grant,North Dakota,13,14
+Griggs,North Dakota,16,21
+Hettinger,North Dakota,32,37
+Kidder,North Dakota,14,19
+LaMoure,North Dakota,26,33
+Logan,North Dakota,15,21
+McHenry,North Dakota,53,56
+McIntosh,North Dakota,15,17
+McKenzie,North Dakota,52,51
+McLean,North Dakota,54,57
+Mercer,North Dakota,35,36
+Morton,North Dakota,70,73
+Mountrail,North Dakota,37,31
+Nelson,North Dakota,15,18
+Oliver,North Dakota,7,9
+Pembina,North Dakota,47,53
+Pierce,North Dakota,13,15
+Ramsey,North Dakota,48,50
+Ransom,North Dakota,21,30
+Renville,North Dakota,7,9
+Richland,North Dakota,77,80
+Rolette,North Dakota,62,50
+Sargent,North Dakota,20,28
+Sheridan,North Dakota,22,31
+Sioux,North Dakota,29,16
+Slope,North Dakota,1,2
+Stark,North Dakota,59,61
+Steele,North Dakota,16,25
+Stutsman,North Dakota,66,68
+Towner,North Dakota,3,3
+Traill,North Dakota,46,58
+Walsh,North Dakota,63,67
+Ward,North Dakota,76,78
+Wells,North Dakota,10,15
+Williams,North Dakota,72,71
+Adams,Ohio,54,50
+Allen,Ohio,51,53
+Ashland,Ohio,44,46
+Ashtabula,Ohio,61,59
+Athens,Ohio,43,42
+Auglaize,Ohio,23,32
+Belmont,Ohio,63,64
+Brown,Ohio,50,48
+Butler,Ohio,88,88
+Carroll,Ohio,9,10
+Champaign,Ohio,26,29
+Clark,Ohio,59,61
+Clermont,Ohio,67,70
+Clinton,Ohio,38,39
+Columbiana,Ohio,56,56
+Coshocton,Ohio,34,31
+Crawford,Ohio,24,27
+Cuyahoga,Ohio,91,92
+Darke,Ohio,58,63
+Defiance,Ohio,36,39
+Delaware,Ohio,71,78
+Erie,Ohio,61,64
+Fairfield,Ohio,54,59
+Fayette,Ohio,25,25
+Franklin,Ohio,92,93
+Fulton,Ohio,41,44
+Gallia,Ohio,18,17
+Geauga,Ohio,25,33
+Greene,Ohio,64,69
+Guernsey,Ohio,29,28
+Hamilton,Ohio,93,94
+Hancock,Ohio,71,72
+Hardin,Ohio,14,15
+Harrison,Ohio,5,5
+Henry,Ohio,18,22
+Highland,Ohio,35,33
+Hocking,Ohio,27,28
+Holmes,Ohio,49,48
+Huron,Ohio,45,47
+Jackson,Ohio,25,23
+Jefferson,Ohio,49,52
+Knox,Ohio,41,44
+Lake,Ohio,56,61
+Lawrence,Ohio,48,50
+Licking,Ohio,65,68
+Logan,Ohio,38,42
+Lorain,Ohio,73,75
+Lucas,Ohio,84,85
+Madison,Ohio,23,28
+Mahoning,Ohio,74,73
+Marion,Ohio,42,45
+Medina,Ohio,61,69
+Meigs,Ohio,29,23
+Mercer,Ohio,58,65
+Miami,Ohio,55,59
+Monroe,Ohio,18,21
+Montgomery,Ohio,86,86
+Morgan,Ohio,8,9
+Morrow,Ohio,19,23
+Muskingum,Ohio,45,48
+Noble,Ohio,20,20
+Ottawa,Ohio,46,52
+Paulding,Ohio,22,26
+Perry,Ohio,15,14
+Pickaway,Ohio,35,39
+Pike,Ohio,29,26
+Portage,Ohio,53,56
+Preble,Ohio,41,47
+Putnam,Ohio,23,30
+Richland,Ohio,60,58
+Ross,Ohio,48,47
+Sandusky,Ohio,49,52
+Scioto,Ohio,57,55
+Seneca,Ohio,36,39
+Shelby,Ohio,41,45
+Stark,Ohio,82,83
+Summit,Ohio,86,86
+Trumbull,Ohio,81,80
+Tuscarawas,Ohio,35,34
+Union,Ohio,29,43
+Van Wert,Ohio,20,26
+Vinton,Ohio,7,6
+Warren,Ohio,67,74
+Washington,Ohio,50,50
+Wayne,Ohio,55,57
+Williams,Ohio,39,43
+Wood,Ohio,64,68
+Wyandot,Ohio,20,24
+Adair,Oklahoma,66,55
+Alfalfa,Oklahoma,24,25
+Atoka,Oklahoma,40,31
+Beaver,Oklahoma,27,28
+Beckham,Oklahoma,70,63
+Blaine,Oklahoma,39,36
+Bryan,Oklahoma,79,74
+Caddo,Oklahoma,65,58
+Canadian,Oklahoma,88,89
+Carter,Oklahoma,79,75
+Cherokee,Oklahoma,82,76
+Choctaw,Oklahoma,48,37
+Cimarron,Oklahoma,18,18
+Cleveland,Oklahoma,90,91
+Coal,Oklahoma,26,17
+Comanche,Oklahoma,88,87
+Cotton,Oklahoma,18,14
+Craig,Oklahoma,57,49
+Creek,Oklahoma,84,82
+Custer,Oklahoma,73,69
+Delaware,Oklahoma,76,68
+Dewey,Oklahoma,12,13
+Ellis,Oklahoma,15,12
+Garfield,Oklahoma,77,75
+Garvin,Oklahoma,68,64
+Grady,Oklahoma,78,78
+Grant,Oklahoma,12,13
+Greer,Oklahoma,19,15
+Harmon,Oklahoma,15,10
+Harper,Oklahoma,14,12
+Haskell,Oklahoma,54,45
+Hughes,Oklahoma,57,49
+Jackson,Oklahoma,62,58
+Jefferson,Oklahoma,22,16
+Johnston,Oklahoma,31,25
+Kay,Oklahoma,79,74
+Kingfisher,Oklahoma,64,62
+Kiowa,Oklahoma,35,29
+Latimer,Oklahoma,47,35
+Le Flore,Oklahoma,81,75
+Lincoln,Oklahoma,67,64
+Logan,Oklahoma,76,76
+Love,Oklahoma,43,34
+McClain,Oklahoma,76,76
+McCurtain,Oklahoma,59,47
+McIntosh,Oklahoma,64,58
+Major,Oklahoma,22,23
+Marshall,Oklahoma,49,41
+Mayes,Oklahoma,76,70
+Murray,Oklahoma,37,30
+Muskogee,Oklahoma,83,78
+Noble,Oklahoma,24,24
+Nowata,Oklahoma,44,39
+Okfuskee,Oklahoma,42,33
+Oklahoma,Oklahoma,97,97
+Okmulgee,Oklahoma,75,69
+Osage,Oklahoma,74,70
+Ottawa,Oklahoma,78,71
+Pawnee,Oklahoma,43,39
+Payne,Oklahoma,78,77
+Pittsburg,Oklahoma,75,70
+Pontotoc,Oklahoma,77,74
+Pottawatomie,Oklahoma,86,83
+Pushmataha,Oklahoma,43,32
+Roger Mills,Oklahoma,16,16
+Rogers,Oklahoma,81,81
+Seminole,Oklahoma,69,59
+Sequoyah,Oklahoma,77,71
+Stephens,Oklahoma,72,67
+Texas,Oklahoma,66,58
+Tillman,Oklahoma,21,16
+Tulsa,Oklahoma,97,97
+Wagoner,Oklahoma,78,77
+Washington,Oklahoma,76,74
+Washita,Oklahoma,22,21
+Woods,Oklahoma,14,14
+Woodward,Oklahoma,43,38
+Baker,Oregon,49,48
+Benton,Oregon,91,91
+Clackamas,Oregon,96,96
+Clatsop,Oregon,92,92
+Columbia,Oregon,84,84
+Coos,Oregon,95,94
+Crook,Oregon,46,47
+Curry,Oregon,88,87
+Deschutes,Oregon,80,82
+Douglas,Oregon,93,92
+Gilliam,Oregon,10,10
+Grant,Oregon,28,26
+Harney,Oregon,23,23
+Hood River,Oregon,61,56
+Jackson,Oregon,93,92
+Jefferson,Oregon,50,48
+Josephine,Oregon,88,86
+Klamath,Oregon,87,84
+Lake,Oregon,41,31
+Lane,Oregon,97,96
+Lincoln,Oregon,92,91
+Linn,Oregon,92,91
+Malheur,Oregon,48,36
+Marion,Oregon,97,96
+Morrow,Oregon,44,39
+Multnomah,Oregon,99,99
+Polk,Oregon,86,84
+Sherman,Oregon,17,16
+Tillamook,Oregon,87,85
+Umatilla,Oregon,77,71
+Union,Oregon,31,29
+Wallowa,Oregon,38,37
+Wasco,Oregon,82,78
+Washington,Oregon,97,97
+Wheeler,Oregon,34,31
+Yamhill,Oregon,90,88
+Adams,Pennsylvania,61,64
+Allegheny,Pennsylvania,78,81
+Armstrong,Pennsylvania,17,18
+Beaver,Pennsylvania,57,59
+Bedford,Pennsylvania,31,33
+Berks,Pennsylvania,89,89
+Blair,Pennsylvania,52,54
+Bradford,Pennsylvania,72,70
+Bucks,Pennsylvania,92,93
+Butler,Pennsylvania,52,58
+Cambria,Pennsylvania,52,55
+Cameron,Pennsylvania,1,1
+Carbon,Pennsylvania,43,45
+Centre,Pennsylvania,37,43
+Chester,Pennsylvania,92,93
+Clarion,Pennsylvania,16,16
+Clearfield,Pennsylvania,39,37
+Clinton,Pennsylvania,20,20
+Columbia,Pennsylvania,36,39
+Crawford,Pennsylvania,72,68
+Cumberland,Pennsylvania,74,76
+Dauphin,Pennsylvania,89,89
+Delaware,Pennsylvania,92,93
+Elk,Pennsylvania,12,16
+Erie,Pennsylvania,68,68
+Fayette,Pennsylvania,57,55
+Forest,Pennsylvania,1,1
+Franklin,Pennsylvania,70,70
+Fulton,Pennsylvania,8,10
+Greene,Pennsylvania,31,33
+Huntingdon,Pennsylvania,24,27
+Indiana,Pennsylvania,35,36
+Jefferson,Pennsylvania,41,41
+Juniata,Pennsylvania,20,19
+Lackawanna,Pennsylvania,77,77
+Lancaster,Pennsylvania,89,90
+Lawrence,Pennsylvania,28,29
+Lebanon,Pennsylvania,73,72
+Lehigh,Pennsylvania,83,83
+Luzerne,Pennsylvania,86,85
+Lycoming,Pennsylvania,66,67
+McKean,Pennsylvania,37,38
+Mercer,Pennsylvania,38,39
+Mifflin,Pennsylvania,35,35
+Monroe,Pennsylvania,81,81
+Montgomery,Pennsylvania,94,95
+Montour,Pennsylvania,6,7
+Northampton,Pennsylvania,81,83
+Northumberland,Pennsylvania,52,53
+Perry,Pennsylvania,31,33
+Philadelphia,Pennsylvania,98,98
+Pike,Pennsylvania,37,42
+Potter,Pennsylvania,4,4
+Schuylkill,Pennsylvania,62,65
+Snyder,Pennsylvania,34,35
+Somerset,Pennsylvania,40,41
+Sullivan,Pennsylvania,5,6
+Susquehanna,Pennsylvania,58,58
+Tioga,Pennsylvania,21,22
+Union,Pennsylvania,33,37
+Venango,Pennsylvania,48,49
+Warren,Pennsylvania,30,34
+Washington,Pennsylvania,45,51
+Wayne,Pennsylvania,53,55
+Westmoreland,Pennsylvania,70,73
+Wyoming,Pennsylvania,39,41
+York,Pennsylvania,84,85
+Bristol,Rhode Island,41,51
+Kent,Rhode Island,75,76
+Newport,Rhode Island,60,65
+Providence,Rhode Island,90,89
+Washington,Rhode Island,75,79
+Abbeville,South Carolina,39,32
+Aiken,South Carolina,84,82
+Allendale,South Carolina,65,52
+Anderson,South Carolina,78,77
+Bamberg,South Carolina,62,57
+Barnwell,South Carolina,59,50
+Beaufort,South Carolina,98,98
+Berkeley,South Carolina,98,98
+Calhoun,South Carolina,41,34
+Charleston,South Carolina,99,100
+Cherokee,South Carolina,66,63
+Chester,South Carolina,48,45
+Chesterfield,South Carolina,80,74
+Clarendon,South Carolina,85,80
+Colleton,South Carolina,89,87
+Darlington,South Carolina,78,73
+Dillon,South Carolina,90,88
+Dorchester,South Carolina,97,97
+Edgefield,South Carolina,27,22
+Fairfield,South Carolina,37,32
+Florence,South Carolina,93,93
+Georgetown,South Carolina,95,95
+Greenville,South Carolina,89,89
+Greenwood,South Carolina,72,68
+Hampton,South Carolina,77,73
+Horry,South Carolina,99,99
+Jasper,South Carolina,89,86
+Kershaw,South Carolina,72,70
+Lancaster,South Carolina,73,71
+Laurens,South Carolina,64,59
+Lee,South Carolina,58,51
+Lexington,South Carolina,92,92
+McCormick,South Carolina,9,8
+Marion,South Carolina,86,80
+Marlboro,South Carolina,66,57
+Newberry,South Carolina,64,60
+Oconee,South Carolina,66,62
+Orangeburg,South Carolina,92,91
+Pickens,South Carolina,59,60
+Richland,South Carolina,93,93
+Saluda,South Carolina,40,33
+Spartanburg,South Carolina,84,82
+Sumter,South Carolina,87,85
+Union,South Carolina,53,46
+Williamsburg,South Carolina,87,83
+York,South Carolina,89,90
+Aurora,South Dakota,17,20
+Beadle,South Dakota,53,54
+Bennett,South Dakota,11,8
+Bon Homme,South Dakota,17,18
+Brookings,South Dakota,76,79
+Brown,South Dakota,79,81
+Brule,South Dakota,22,25
+Buffalo,South Dakota,16,8
+Butte,South Dakota,48,46
+Campbell,South Dakota,13,18
+Charles Mix,South Dakota,47,40
+Clark,South Dakota,27,28
+Clay,South Dakota,54,53
+Codington,South Dakota,72,71
+Corson,South Dakota,21,14
+Custer,South Dakota,58,57
+Davison,South Dakota,64,66
+Day,South Dakota,38,44
+Deuel,South Dakota,23,34
+Dewey,South Dakota,31,22
+Douglas,South Dakota,32,33
+Edmunds,South Dakota,23,32
+Fall River,South Dakota,36,32
+Faulk,South Dakota,13,13
+Grant,South Dakota,41,46
+Gregory,South Dakota,17,19
+Haakon,South Dakota,6,6
+Hamlin,South Dakota,34,36
+Hand,South Dakota,11,22
+Hanson,South Dakota,13,22
+Harding,South Dakota,4,6
+Hughes,South Dakota,47,49
+Hutchinson,South Dakota,65,66
+Hyde,South Dakota,6,11
+Jackson,South Dakota,14,8
+Jerauld,South Dakota,11,13
+Jones,South Dakota,5,7
+Kingsbury,South Dakota,34,40
+Lake,South Dakota,54,60
+Lawrence,South Dakota,63,64
+Lincoln,South Dakota,83,87
+Lyman,South Dakota,10,11
+McCook,South Dakota,69,71
+McPherson,South Dakota,14,16
+Marshall,South Dakota,40,41
+Meade,South Dakota,71,73
+Mellette,South Dakota,12,7
+Miner,South Dakota,18,21
+Minnehaha,South Dakota,93,93
+Moody,South Dakota,53,55
+Oglala Lakota,South Dakota,57,38
+Pennington,South Dakota,85,85
+Perkins,South Dakota,12,11
+Potter,South Dakota,13,18
+Roberts,South Dakota,53,49
+Sanborn,South Dakota,19,24
+Spink,South Dakota,51,59
+Stanley,South Dakota,6,10
+Sully,South Dakota,14,20
+Todd,South Dakota,45,26
+Tripp,South Dakota,23,25
+Turner,South Dakota,70,70
+Union,South Dakota,50,55
+Walworth,South Dakota,28,28
+Yankton,South Dakota,67,67
+Ziebach,South Dakota,15,8
+Anderson,Tennessee,58,56
+Bedford,Tennessee,63,58
+Benton,Tennessee,37,34
+Bledsoe,Tennessee,18,15
+Blount,Tennessee,67,67
+Bradley,Tennessee,77,75
+Campbell,Tennessee,50,45
+Cannon,Tennessee,19,19
+Carroll,Tennessee,72,68
+Carter,Tennessee,52,50
+Cheatham,Tennessee,47,48
+Chester,Tennessee,51,50
+Claiborne,Tennessee,38,32
+Clay,Tennessee,10,8
+Cocke,Tennessee,29,22
+Coffee,Tennessee,66,64
+Crockett,Tennessee,56,48
+Cumberland,Tennessee,58,55
+Davidson,Tennessee,97,96
+Decatur,Tennessee,34,35
+DeKalb,Tennessee,32,28
+Dickson,Tennessee,65,64
+Dyer,Tennessee,87,84
+Fayette,Tennessee,75,73
+Fentress,Tennessee,16,15
+Franklin,Tennessee,56,53
+Gibson,Tennessee,86,84
+Giles,Tennessee,56,54
+Grainger,Tennessee,15,13
+Greene,Tennessee,43,39
+Grundy,Tennessee,27,20
+Hamblen,Tennessee,40,35
+Hamilton,Tennessee,92,92
+Hancock,Tennessee,5,3
+Hardeman,Tennessee,64,56
+Hardin,Tennessee,52,52
+Hawkins,Tennessee,28,27
+Haywood,Tennessee,66,59
+Henderson,Tennessee,64,60
+Henry,Tennessee,70,67
+Hickman,Tennessee,48,48
+Houston,Tennessee,24,23
+Humphreys,Tennessee,44,42
+Jackson,Tennessee,17,13
+Jefferson,Tennessee,37,33
+Johnson,Tennessee,10,8
+Knox,Tennessee,89,91
+Lake,Tennessee,57,44
+Lauderdale,Tennessee,74,67
+Lawrence,Tennessee,71,65
+Lewis,Tennessee,26,22
+Lincoln,Tennessee,59,57
+Loudon,Tennessee,46,51
+McMinn,Tennessee,57,53
+McNairy,Tennessee,52,50
+Macon,Tennessee,45,39
+Madison,Tennessee,91,90
+Marion,Tennessee,58,54
+Marshall,Tennessee,59,56
+Maury,Tennessee,79,79
+Meigs,Tennessee,10,9
+Monroe,Tennessee,52,47
+Montgomery,Tennessee,86,84
+Moore,Tennessee,12,13
+Morgan,Tennessee,21,18
+Obion,Tennessee,78,75
+Overton,Tennessee,21,21
+Perry,Tennessee,23,21
+Pickett,Tennessee,3,3
+Polk,Tennessee,18,17
+Putnam,Tennessee,67,65
+Rhea,Tennessee,49,41
+Roane,Tennessee,42,43
+Robertson,Tennessee,59,59
+Rutherford,Tennessee,88,89
+Scott,Tennessee,24,19
+Sequatchie,Tennessee,20,18
+Sevier,Tennessee,62,58
+Shelby,Tennessee,99,99
+Smith,Tennessee,32,31
+Stewart,Tennessee,33,31
+Sullivan,Tennessee,50,47
+Sumner,Tennessee,83,84
+Tipton,Tennessee,80,79
+Trousdale,Tennessee,13,12
+Unicoi,Tennessee,6,5
+Union,Tennessee,15,13
+Van Buren,Tennessee,5,5
+Warren,Tennessee,60,53
+Washington,Tennessee,54,53
+Wayne,Tennessee,45,38
+Weakley,Tennessee,78,76
+White,Tennessee,26,25
+Williamson,Tennessee,78,84
+Wilson,Tennessee,80,80
+Anderson,Texas,77,72
+Andrews,Texas,39,34
+Angelina,Texas,82,76
+Aransas,Texas,85,83
+Archer,Texas,21,23
+Armstrong,Texas,11,12
+Atascosa,Texas,66,59
+Austin,Texas,64,58
+Bailey,Texas,50,42
+Bandera,Texas,52,49
+Bastrop,Texas,79,76
+Baylor,Texas,16,15
+Bee,Texas,80,74
+Bell,Texas,93,92
+Bexar,Texas,98,98
+Blanco,Texas,41,39
+Borden,Texas,10,10
+Bosque,Texas,37,33
+Bowie,Texas,82,80
+Brazoria,Texas,99,99
+Brazos,Texas,85,85
+Brewster,Texas,67,58
+Briscoe,Texas,20,18
+Brooks,Texas,55,38
+Brown,Texas,72,69
+Burleson,Texas,25,24
+Burnet,Texas,80,79
+Caldwell,Texas,82,78
+Calhoun,Texas,85,82
+Callahan,Texas,28,27
+Cameron,Texas,98,98
+Camp,Texas,55,45
+Carson,Texas,61,66
+Cass,Texas,56,49
+Castro,Texas,39,32
+Chambers,Texas,90,90
+Cherokee,Texas,62,54
+Childress,Texas,84,84
+Clay,Texas,37,38
+Cochran,Texas,36,20
+Coke,Texas,17,16
+Coleman,Texas,27,22
+Collin,Texas,99,99
+Collingsworth,Texas,48,31
+Colorado,Texas,69,63
+Comal,Texas,90,91
+Comanche,Texas,59,54
+Concho,Texas,7,5
+Cooke,Texas,84,81
+Coryell,Texas,72,69
+Cottle,Texas,11,7
+Crane,Texas,1,1
+Crockett,Texas,12,9
+Crosby,Texas,41,28
+Culberson,Texas,15,7
+Dallam,Texas,46,41
+Dallas,Texas,99,99
+Dawson,Texas,39,31
+Deaf Smith,Texas,65,57
+Delta,Texas,11,12
+Denton,Texas,98,99
+DeWitt,Texas,87,84
+Dickens,Texas,17,11
+Dimmit,Texas,32,17
+Donley,Texas,27,30
+Duval,Texas,20,12
+Eastland,Texas,54,48
+Ector,Texas,85,80
+Edwards,Texas,8,6
+Ellis,Texas,77,76
+El Paso,Texas,94,92
+Erath,Texas,77,75
+Falls,Texas,34,24
+Fannin,Texas,73,69
+Fayette,Texas,53,53
+Fisher,Texas,9,9
+Floyd,Texas,82,77
+Foard,Texas,4,3
+Fort Bend,Texas,99,99
+Franklin,Texas,40,41
+Freestone,Texas,38,32
+Frio,Texas,42,29
+Gaines,Texas,75,67
+Galveston,Texas,100,100
+Garza,Texas,39,29
+Gillespie,Texas,58,55
+Glasscock,Texas,13,13
+Goliad,Texas,50,43
+Gonzales,Texas,88,83
+Gray,Texas,67,63
+Grayson,Texas,83,82
+Gregg,Texas,89,86
+Grimes,Texas,68,64
+Guadalupe,Texas,90,90
+Hale,Texas,77,70
+Hall,Texas,39,23
+Hamilton,Texas,29,25
+Hansford,Texas,47,37
+Hardeman,Texas,7,5
+Hardin,Texas,84,82
+Harris,Texas,100,100
+Harrison,Texas,74,69
+Hartley,Texas,52,44
+Haskell,Texas,23,14
+Hays,Texas,94,93
+Hemphill,Texas,54,40
+Henderson,Texas,74,69
+Hidalgo,Texas,99,98
+Hill,Texas,68,63
+Hockley,Texas,70,62
+Hood,Texas,77,77
+Hopkins,Texas,73,68
+Houston,Texas,46,38
+Howard,Texas,70,66
+Hudspeth,Texas,7,3
+Hunt,Texas,86,82
+Hutchinson,Texas,73,70
+Irion,Texas,15,15
+Jack,Texas,26,21
+Jackson,Texas,88,85
+Jasper,Texas,77,71
+Jeff Davis,Texas,19,16
+Jefferson,Texas,98,97
+Jim Hogg,Texas,5,2
+Jim Wells,Texas,87,83
+Johnson,Texas,90,90
+Jones,Texas,48,43
+Karnes,Texas,65,61
+Kaufman,Texas,77,75
+Kendall,Texas,64,65
+Kenedy,Texas,7,5
+Kent,Texas,3,3
+Kerr,Texas,67,62
+Kimble,Texas,46,45
+King,Texas,1,1
+Kinney,Texas,2,1
+Kleberg,Texas,86,81
+Knox,Texas,19,14
+Lamar,Texas,82,79
+Lamb,Texas,65,56
+Lampasas,Texas,34,32
+La Salle,Texas,10,8
+Lavaca,Texas,73,69
+Lee,Texas,39,34
+Leon,Texas,35,29
+Liberty,Texas,92,89
+Limestone,Texas,40,30
+Lipscomb,Texas,33,24
+Live Oak,Texas,33,27
+Llano,Texas,69,67
+Loving,Texas,0,0
+Lubbock,Texas,96,96
+Lynn,Texas,40,33
+McCulloch,Texas,10,9
+McLennan,Texas,90,89
+McMullen,Texas,2,1
+Madison,Texas,46,38
+Marion,Texas,14,11
+Martin,Texas,22,22
+Mason,Texas,9,10
+Matagorda,Texas,90,88
+Maverick,Texas,60,43
+Medina,Texas,71,67
+Menard,Texas,8,6
+Midland,Texas,88,88
+Milam,Texas,58,50
+Mills,Texas,7,6
+Mitchell,Texas,35,29
+Montague,Texas,61,59
+Montgomery,Texas,97,97
+Moore,Texas,68,63
+Morris,Texas,83,80
+Motley,Texas,8,7
+Nacogdoches,Texas,94,93
+Navarro,Texas,85,79
+Newton,Texas,48,40
+Nolan,Texas,58,51
+Nueces,Texas,98,97
+Ochiltree,Texas,49,44
+Oldham,Texas,6,7
+Orange,Texas,97,96
+Palo Pinto,Texas,60,57
+Panola,Texas,56,52
+Parker,Texas,88,88
+Parmer,Texas,75,68
+Pecos,Texas,17,13
+Polk,Texas,82,77
+Potter,Texas,91,89
+Presidio,Texas,19,9
+Rains,Texas,28,26
+Randall,Texas,90,91
+Reagan,Texas,7,6
+Real,Texas,32,22
+Red River,Texas,26,24
+Reeves,Texas,40,28
+Refugio,Texas,64,55
+Roberts,Texas,4,6
+Robertson,Texas,40,33
+Rockwall,Texas,80,84
+Runnels,Texas,22,21
+Rusk,Texas,65,59
+Sabine,Texas,27,23
+San Augustine,Texas,23,16
+San Jacinto,Texas,76,73
+San Patricio,Texas,89,87
+San Saba,Texas,14,11
+Schleicher,Texas,14,11
+Scurry,Texas,60,52
+Shackelford,Texas,25,18
+Shelby,Texas,72,62
+Sherman,Texas,38,30
+Smith,Texas,63,60
+Somervell,Texas,30,31
+Starr,Texas,83,72
+Stephens,Texas,22,16
+Sterling,Texas,6,6
+Stonewall,Texas,10,8
+Sutton,Texas,40,27
+Swisher,Texas,57,48
+Tarrant,Texas,99,99
+Taylor,Texas,84,83
+Terrell,Texas,1,1
+Terry,Texas,45,35
+Throckmorton,Texas,6,7
+Titus,Texas,68,60
+Tom Green,Texas,79,77
+Travis,Texas,97,97
+Trinity,Texas,50,40
+Tyler,Texas,73,67
+Upshur,Texas,71,66
+Upton,Texas,9,8
+Uvalde,Texas,71,61
+Val Verde,Texas,80,73
+Van Zandt,Texas,65,62
+Victoria,Texas,92,90
+Walker,Texas,81,77
+Waller,Texas,80,77
+Ward,Texas,9,7
+Washington,Texas,73,69
+Webb,Texas,73,63
+Wharton,Texas,90,87
+Wheeler,Texas,54,43
+Wichita,Texas,82,80
+Wilbarger,Texas,52,45
+Willacy,Texas,85,76
+Williamson,Texas,87,89
+Wilson,Texas,77,73
+Winkler,Texas,3,2
+Wise,Texas,79,77
+Wood,Texas,37,32
+Yoakum,Texas,49,39
+Young,Texas,50,47
+Zapata,Texas,23,11
+Zavala,Texas,43,27
+Beaver,Utah,11,12
+Box Elder,Utah,76,78
+Cache,Utah,86,87
+Carbon,Utah,21,19
+Daggett,Utah,0,1
+Davis,Utah,94,95
+Duchesne,Utah,21,17
+Emery,Utah,13,14
+Garfield,Utah,20,19
+Grand,Utah,13,11
+Iron,Utah,85,83
+Juab,Utah,55,53
+Kane,Utah,21,20
+Millard,Utah,27,24
+Morgan,Utah,9,21
+Piute,Utah,2,2
+Rich,Utah,6,7
+Salt Lake,Utah,99,99
+San Juan,Utah,6,4
+Sanpete,Utah,50,49
+Sevier,Utah,28,26
+Summit,Utah,69,77
+Tooele,Utah,78,81
+Uintah,Utah,10,10
+Utah,Utah,97,98
+Wasatch,Utah,44,56
+Washington,Utah,96,96
+Wayne,Utah,2,2
+Weber,Utah,94,94
+Addison,Vermont,16,20
+Bennington,Vermont,19,23
+Caledonia,Vermont,23,25
+Chittenden,Vermont,39,46
+Essex,Vermont,3,3
+Franklin,Vermont,27,31
+Grand Isle,Vermont,1,2
+Lamoille,Vermont,13,15
+Orange,Vermont,20,24
+Orleans,Vermont,27,29
+Rutland,Vermont,46,48
+Washington,Vermont,57,60
+Windham,Vermont,49,51
+Windsor,Vermont,57,60
+Accomack,Virginia,90,89
+Albemarle,Virginia,64,68
+Alleghany,Virginia,14,15
+Amelia,Virginia,9,8
+Amherst,Virginia,10,11
+Appomattox,Virginia,5,5
+Arlington,Virginia,74,77
+Augusta,Virginia,44,48
+Bath,Virginia,4,5
+Bedford,Virginia,27,33
+Bland,Virginia,2,1
+Botetourt,Virginia,8,13
+Brunswick,Virginia,29,22
+Buchanan,Virginia,47,41
+Buckingham,Virginia,13,10
+Campbell,Virginia,20,20
+Caroline,Virginia,16,17
+Carroll,Virginia,8,9
+Charles City,Virginia,14,14
+Charlotte,Virginia,12,10
+Chesterfield,Virginia,89,90
+Clarke,Virginia,10,14
+Craig,Virginia,1,1
+Culpeper,Virginia,43,41
+Cumberland,Virginia,8,9
+Dickenson,Virginia,19,15
+Dinwiddie,Virginia,24,26
+Essex,Virginia,61,54
+Fairfax,Virginia,95,95
+Fauquier,Virginia,48,56
+Floyd,Virginia,3,4
+Fluvanna,Virginia,13,17
+Franklin,Virginia,13,14
+Frederick,Virginia,51,54
+Giles,Virginia,7,8
+Gloucester,Virginia,65,69
+Goochland,Virginia,13,18
+Grayson,Virginia,4,4
+Greene,Virginia,13,12
+Greensville,Virginia,18,13
+Halifax,Virginia,44,41
+Hanover,Virginia,57,66
+Henrico,Virginia,79,80
+Henry,Virginia,49,42
+Highland,Virginia,1,0
+Isle of Wight,Virginia,71,71
+James City,Virginia,78,80
+King and Queen,Virginia,36,44
+King George,Virginia,48,54
+King William,Virginia,35,44
+Lancaster,Virginia,66,66
+Lee,Virginia,21,18
+Loudoun,Virginia,78,82
+Louisa,Virginia,37,38
+Lunenburg,Virginia,19,15
+Madison,Virginia,16,17
+Mathews,Virginia,61,64
+Mecklenburg,Virginia,51,47
+Middlesex,Virginia,62,64
+Montgomery,Virginia,26,30
+Nelson,Virginia,10,12
+New Kent,Virginia,34,46
+Northampton,Virginia,73,69
+Northumberland,Virginia,71,74
+Nottoway,Virginia,21,17
+Orange,Virginia,49,50
+Page,Virginia,28,29
+Patrick,Virginia,9,10
+Pittsylvania,Virginia,47,43
+Powhatan,Virginia,11,20
+Prince Edward,Virginia,20,16
+Prince George,Virginia,51,53
+Prince William,Virginia,86,86
+Pulaski,Virginia,10,10
+Rappahannock,Virginia,6,8
+Richmond,Virginia,43,36
+Roanoke,Virginia,36,43
+Rockbridge,Virginia,16,16
+Rockingham,Virginia,61,64
+Russell,Virginia,7,7
+Scott,Virginia,10,10
+Shenandoah,Virginia,57,56
+Smyth,Virginia,15,13
+Southampton,Virginia,50,52
+Spotsylvania,Virginia,56,58
+Stafford,Virginia,73,76
+Surry,Virginia,40,39
+Sussex,Virginia,16,15
+Tazewell,Virginia,52,50
+Warren,Virginia,40,39
+Washington,Virginia,19,21
+Westmoreland,Virginia,65,63
+Wise,Virginia,43,37
+Wythe,Virginia,9,10
+York,Virginia,82,85
+Alexandria,Virginia,70,72
+Bristol,Virginia,4,3
+Buena Vista,Virginia,1,1
+Charlottesville,Virginia,27,28
+Chesapeake,Virginia,91,92
+Colonial Heights,Virginia,12,14
+Covington,Virginia,1,2
+Danville,Virginia,60,53
+Emporia,Virginia,13,8
+Fairfax,Virginia,26,29
+Falls Church,Virginia,15,19
+Franklin,Virginia,18,17
+Fredericksburg,Virginia,22,21
+Galax,Virginia,6,4
+Hampton,Virginia,88,87
+Harrisonburg,Virginia,34,34
+Hopewell,Virginia,39,32
+Lexington,Virginia,2,2
+Lynchburg,Virginia,44,42
+Manassas,Virginia,42,37
+Manassas Park,Virginia,12,11
+Martinsville,Virginia,10,8
+Newport News,Virginia,90,90
+Norfolk,Virginia,92,91
+Norton,Virginia,2,1
+Petersburg,Virginia,38,27
+Poquoson,Virginia,31,48
+Portsmouth,Virginia,84,83
+Radford,Virginia,3,4
+Richmond,Virginia,73,71
+Roanoke,Virginia,46,42
+Salem,Virginia,16,17
+Staunton,Virginia,16,15
+Suffolk,Virginia,81,83
+Virginia Beach,Virginia,88,90
+Waynesboro,Virginia,18,15
+Williamsburg,Virginia,38,40
+Winchester,Virginia,27,23
+Adams,Washington,40,30
+Asotin,Washington,9,11
+Benton,Washington,87,86
+Chelan,Washington,87,86
+Clallam,Washington,88,86
+Clark,Washington,96,96
+Columbia,Washington,4,3
+Cowlitz,Washington,92,91
+Douglas,Washington,64,55
+Ferry,Washington,56,47
+Franklin,Washington,68,62
+Garfield,Washington,1,1
+Grant,Washington,81,76
+Grays Harbor,Washington,95,94
+Island,Washington,83,84
+Jefferson,Washington,61,61
+King,Washington,100,100
+Kitsap,Washington,95,95
+Kittitas,Washington,84,86
+Klickitat,Washington,65,61
+Lewis,Washington,92,91
+Lincoln,Washington,38,39
+Mason,Washington,85,83
+Okanogan,Washington,85,80
+Pacific,Washington,81,80
+Pend Oreille,Washington,7,7
+Pierce,Washington,99,99
+San Juan,Washington,42,46
+Skagit,Washington,89,89
+Skamania,Washington,70,82
+Snohomish,Washington,98,98
+Spokane,Washington,81,82
+Stevens,Washington,44,44
+Thurston,Washington,96,96
+Wahkiakum,Washington,46,46
+Walla Walla,Washington,71,66
+Whatcom,Washington,91,91
+Whitman,Washington,24,26
+Yakima,Washington,93,92
+Barbour,West Virginia,5,5
+Berkeley,West Virginia,60,60
+Boone,West Virginia,22,22
+Braxton,West Virginia,7,6
+Brooke,West Virginia,21,26
+Cabell,West Virginia,40,40
+Calhoun,West Virginia,5,5
+Clay,West Virginia,10,8
+Doddridge,West Virginia,4,5
+Fayette,West Virginia,25,22
+Gilmer,West Virginia,5,5
+Grant,West Virginia,14,14
+Greenbrier,West Virginia,45,42
+Hampshire,West Virginia,20,21
+Hancock,West Virginia,28,27
+Hardy,West Virginia,32,33
+Harrison,West Virginia,30,32
+Jackson,West Virginia,15,17
+Jefferson,West Virginia,45,49
+Kanawha,West Virginia,80,79
+Lewis,West Virginia,6,5
+Lincoln,West Virginia,30,30
+Logan,West Virginia,64,58
+McDowell,West Virginia,64,56
+Marion,West Virginia,31,34
+Marshall,West Virginia,26,30
+Mason,West Virginia,12,13
+Mercer,West Virginia,44,39
+Mineral,West Virginia,17,18
+Mingo,West Virginia,50,43
+Monongalia,West Virginia,38,42
+Monroe,West Virginia,6,6
+Morgan,West Virginia,12,15
+Nicholas,West Virginia,23,24
+Ohio,West Virginia,54,55
+Pendleton,West Virginia,14,14
+Pleasants,West Virginia,3,3
+Pocahontas,West Virginia,3,3
+Preston,West Virginia,11,13
+Putnam,West Virginia,25,30
+Raleigh,West Virginia,57,54
+Randolph,West Virginia,12,12
+Ritchie,West Virginia,3,3
+Roane,West Virginia,19,17
+Summers,West Virginia,5,5
+Taylor,West Virginia,4,5
+Tucker,West Virginia,2,2
+Tyler,West Virginia,4,4
+Upshur,West Virginia,6,5
+Wayne,West Virginia,35,34
+Webster,West Virginia,9,9
+Wetzel,West Virginia,25,28
+Wirt,West Virginia,2,2
+Wood,West Virginia,28,31
+Wyoming,West Virginia,31,29
+Adams,Wisconsin,36,36
+Ashland,Wisconsin,4,4
+Barron,Wisconsin,63,63
+Bayfield,Wisconsin,5,6
+Brown,Wisconsin,78,80
+Buffalo,Wisconsin,15,20
+Burnett,Wisconsin,18,18
+Calumet,Wisconsin,48,58
+Chippewa,Wisconsin,51,54
+Clark,Wisconsin,39,33
+Columbia,Wisconsin,68,70
+Crawford,Wisconsin,66,67
+Dane,Wisconsin,91,92
+Dodge,Wisconsin,67,70
+Door,Wisconsin,18,23
+Douglas,Wisconsin,22,25
+Dunn,Wisconsin,61,62
+Eau Claire,Wisconsin,65,67
+Florence,Wisconsin,1,1
+Fond du Lac,Wisconsin,71,73
+Forest,Wisconsin,3,3
+Grant,Wisconsin,62,64
+Green,Wisconsin,46,50
+Green Lake,Wisconsin,42,41
+Iowa,Wisconsin,37,45
+Iron,Wisconsin,3,3
+Jackson,Wisconsin,27,25
+Jefferson,Wisconsin,76,78
+Juneau,Wisconsin,47,46
+Kenosha,Wisconsin,78,79
+Kewaunee,Wisconsin,13,17
+La Crosse,Wisconsin,74,75
+Lafayette,Wisconsin,34,35
+Langlade,Wisconsin,16,19
+Lincoln,Wisconsin,12,15
+Manitowoc,Wisconsin,58,62
+Marathon,Wisconsin,62,65
+Marinette,Wisconsin,21,23
+Marquette,Wisconsin,24,26
+Menominee,Wisconsin,2,1
+Milwaukee,Wisconsin,94,94
+Monroe,Wisconsin,62,61
+Oconto,Wisconsin,27,34
+Oneida,Wisconsin,18,26
+Outagamie,Wisconsin,70,74
+Ozaukee,Wisconsin,50,60
+Pepin,Wisconsin,15,15
+Pierce,Wisconsin,69,72
+Polk,Wisconsin,57,59
+Portage,Wisconsin,59,62
+Price,Wisconsin,8,10
+Racine,Wisconsin,75,76
+Richland,Wisconsin,25,25
+Rock,Wisconsin,81,82
+Rusk,Wisconsin,11,12
+St. Croix,Wisconsin,76,81
+Sauk,Wisconsin,60,63
+Sawyer,Wisconsin,7,8
+Shawano,Wisconsin,38,41
+Sheboygan,Wisconsin,66,70
+Taylor,Wisconsin,18,18
+Trempealeau,Wisconsin,51,52
+Vernon,Wisconsin,51,51
+Vilas,Wisconsin,8,10
+Walworth,Wisconsin,70,71
+Washburn,Wisconsin,7,9
+Washington,Wisconsin,71,77
+Waukesha,Wisconsin,86,89
+Waupaca,Wisconsin,48,51
+Waushara,Wisconsin,43,43
+Winnebago,Wisconsin,78,81
+Wood,Wisconsin,60,63
+Albany,Wyoming,43,50
+Big Horn,Wyoming,6,6
+Campbell,Wyoming,55,56
+Carbon,Wyoming,11,11
+Converse,Wyoming,19,26
+Crook,Wyoming,14,18
+Fremont,Wyoming,53,52
+Goshen,Wyoming,26,27
+Hot Springs,Wyoming,5,5
+Johnson,Wyoming,7,8
+Laramie,Wyoming,81,81
+Lincoln,Wyoming,69,69
+Natrona,Wyoming,41,43
+Niobrara,Wyoming,4,4
+Park,Wyoming,26,33
+Platte,Wyoming,10,12
+Sheridan,Wyoming,26,31
+Sublette,Wyoming,45,48
+Sweetwater,Wyoming,7,7
+Teton,Wyoming,69,71
+Uinta,Wyoming,22,20
+Washakie,Wyoming,3,3
+Weston,Wyoming,17,16
